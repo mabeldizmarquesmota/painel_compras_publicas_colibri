@@ -1,5 +1,0 @@
-controle;fase2;referencia;fonte_referencia
-"resultados do escopo (linhas; soma)";"37769; 43128297613.30";"37769; 43128297613.30";p0.res_cat_valid
-"base quem vende = grafico 9 (soma; compras; fornecedores; orgaos)";"41357674407.86; 15207; 5369; 1693";"41357674407.86; 15207; 5369; 1693";tabelas_painel_v2/pn_fluxo.csv
-"compras x categoria (soma 2b; linhas)";"41450849049.79; 21059";"41450849049.79; 21059";p0.cat_valor
-"itens do escopo (pares item x categoria; itens; compras)";"46547; 41091; 18408";-;itens_dedup.parquet

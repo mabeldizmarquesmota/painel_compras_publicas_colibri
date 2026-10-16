@@ -1,7 +1,0 @@
-categoria;amostra_final;n_revisadas_na_base;n_pertinentes;precisao_pct;dicionario_ajustado
-ia;amostra4;149;121;81.20805369127517;sim
-nuvem;amostra2;149;134;89.93288590604027;sim
-plataformas;amostra2;150;127;84.66666666666667;sim
-identidade;amostra1;150;131;87.33333333333333;nao
-data_center;amostra3;150;122;81.33333333333333;sim
-seguranca;amostra3;150;135;90.0;sim

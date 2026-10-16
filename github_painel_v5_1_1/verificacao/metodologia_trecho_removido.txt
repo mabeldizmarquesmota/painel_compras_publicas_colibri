@@ -1,6 +1,0 @@
-## Downloads
-
-- Scripts executados, em ordem, com LEIAME.txt: `pacote_downloads_v5_1.zip`, pasta `scripts/`.
-- Tabelas agregadas que alimentam cada gráfico e tabela: `pacote_downloads_v5_1.zip`, pasta `tabelas_agregadas/`.
-- Dados brutos: https://gestaogovbr.github.io/colibri/ . Extração: `COPY (SELECT * FROM lake.main_intermediate.int_pncp_comprasgov__compras) TO 'compras.parquet' (FORMAT parquet)`; o mesmo para `__itens` e `__resultados`. Os Parquet não fazem parte do pacote.
-

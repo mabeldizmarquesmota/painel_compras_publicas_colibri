@@ -1,9 +1,0 @@
-Diff entre versao_congelada_v5_1/painel_soberania_digital_v5_1.html e painel_soberania_digital_v5_1_1.html
-
-linha 426, a partir do caractere 325:
-  - <p class='nota-dl'>Os dois pacotes são os mesmos arquivos de <code>pacote_downloads_v5_1.zip</code> (pastas scripts e tabelas_agregadas). Extração dos dados brutos: <code>COPY (SELECT * FROM lake.main_intermediate.int_pncp_comprasgov__compras) TO 'compras.parquet' (FORMAT parquet)</code>; o mesmo para <code>__itens</code> e <code>__resultados</code>. Os Parquet não fazem parte do pacote.</p>
-  + 
-
-linha 543, a partir do caractere 19:
-  - , gerada em 04/10/2026. Base extraída em 28/09/2026. Fonte: PNCP, via Colibri (gestaogovbr). Elaboração Mabel Mota para discussão interna no Ipea. Proibida a reprodução
-  + .1, gerada em 06/10/2026. Base extraída em 28/09/2026. Fonte: PNCP, via Colibri (gestaogovbr). Elaboração: Mabel Mota para discussão interna no Ipea. Ferramentas: Python 3.14

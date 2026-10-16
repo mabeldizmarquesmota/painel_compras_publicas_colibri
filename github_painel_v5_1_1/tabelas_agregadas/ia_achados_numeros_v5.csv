@@ -1,5 +1,0 @@
-achado;indicador;valor_exibido;arquivo_de_origem;base
-2;compras de capacitação em IA;1.471;ia_base.csv;compras (classe Capacitação)
-2;valor da capacitação em IA;R$ 34,9 milhões;ia_base_classes.csv;valor homologado repartido pelas classes
-4;participação dos 10 maiores fornecedores (CNPJ do vencedor);72%;ia_resultados.csv;valor dos resultados, sem Capacitação
-4;fornecedores da tecnologia de IA (CNPJ do vencedor);541;ia_resultados.csv;valor dos resultados, sem Capacitação
