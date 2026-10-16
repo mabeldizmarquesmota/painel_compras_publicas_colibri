@@ -2,6 +2,8 @@
 
 Painel do projeto do Ipea **"Novas soluções para o governo digital: Soberania Digital, Inteligência Artificial e Infraestruturas Públicas Digitais"**.
 
+Acesse: https://mabeldizmarquesmota.github.io/painel_compras_publicas_colibri/
+
 Mede o peso das tecnologias críticas para a soberania digital nas compras do Estado brasileiro. Usa as compras registradas no Portal Nacional de Contratações Públicas (PNCP) entre 10/08/2021 e 24/05/2026, na base ComprasGov do [Colibri](https://gestaogovbr.github.io/colibri/), extraída em 28/09/2026.
 
 O painel é um único arquivo HTML. Funciona sem internet: dados, gráficos e bibliotecas ficam embutidos no arquivo.
