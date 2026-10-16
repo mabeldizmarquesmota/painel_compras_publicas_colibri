@@ -1,0 +1,14 @@
+achado;achado_f2_11;indicador;valor_exibido;arquivo_de_origem;base
+1;1;valor de subscrição ou serviço;R$ 21,1 bi;fase2/tabelas/f2_07_modelo_total_sem_dupla_contagem.csv;total das seis categorias
+1;1;participação de subscrição ou serviço no total das seis categorias;61%;fase2/tabelas/f2_07_modelo_total_sem_dupla_contagem.csv;total das seis categorias
+1;1;participação em Nuvem;81%;fase2/tabelas/f2_07_modelo_categoria.csv;soma por categoria
+1;1;participação em Plataformas e licenciamento;64%;fase2/tabelas/f2_07_modelo_categoria.csv;soma por categoria
+2;3;participação de revendedores no valor com marca;92%;fase2/tabelas/f2_11_marca_qualquer_tipo.csv;valor dos resultados
+2;3;participação de fabricantes diretos;2,8%;fase2/tabelas/f2_11_marca_qualquer_tipo.csv;valor dos resultados
+3;4;empresas públicas de TI vencedoras;17;fase2/tabelas/f2_08_empresas_publicas_ti.csv;valor dos resultados
+3;4;valor vendido por empresas públicas de TI (soma por categoria);R$ 8,7 bi;fase2/tabelas/f2_08_tipo_vendedor_categoria.csv;soma por categoria
+3;4;participação no valor dos resultados (soma por categoria);21%;fase2/tabelas/f2_08_tipo_vendedor_categoria.csv;soma por categoria
+3;4;participação em Nuvem;41%;fase2/tabelas/f2_08_tipo_vendedor_categoria.csv;soma por categoria
+4;;valor do acréscimo à licença (aba de IA);R$ 147 mi;"tabelas_painel_v3/ia_base.csv; tabelas_painel_v3/ia_base_classes.csv";valor repartido pelos itens, como na aba de IA
+4;;compras do acréscimo à licença (aba de IA);56;"tabelas_painel_v3/ia_base.csv; tabelas_painel_v3/ia_base_classes.csv";compras com parte de acréscimo à licença, como na aba de IA
+4;;compras do acréscimo na categoria Inteligência artificial;7;"tabelas_painel_v3/ia_base.csv; tabelas_painel_v3/ia_base_classes.csv";compras com parte de acréscimo à licença, como na aba de IA

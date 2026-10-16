@@ -1,0 +1,9 @@
+causa;origem_ncm;itens;valor_margem_aplicada
+NCM coberto por resolucao CIIA-PAC vigente;ncm_do_item;11;242663179.01999998
+item sem NCM (nem informado nem no tradutor);sem_ncm;83;182955037.10000002
+NCM coberto por resolucao CICS, fora da vigencia;tradutor_ia;40;18216848.119999997
+NCM sem cobertura CICS nem CIIA-PAC;ncm_do_item;45;2333174.5600000005
+NCM sem cobertura CICS nem CIIA-PAC;tradutor_ia;85;2226244.5829999996
+NCM coberto por resolucao CIIA-PAC vigente;tradutor_ia;6;227080.69
+NCM coberto por resolucao CICS, fora da vigencia;ncm_do_item;8;61668.6
+NCM coberto por resolucao CICS, fora da vigencia;tradutor_humano;1;2100.0

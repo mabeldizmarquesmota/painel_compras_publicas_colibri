@@ -1,0 +1,49 @@
+elemento;modo;texto
+cp_valor;valores nominais;De cada R$ 100 homologados no período, R$ 80 concentram-se em 2024 e 2025. Valores nominais.
+g1_valor;valores nominais;em 2025, o valor global homologado foi de R$ 392 bi. Valores nominais.
+g2;valores nominais;em 2025, a esfera federal respondeu por 44% do valor global homologado.
+g3;valores nominais;em 2025, o Poder Executivo respondeu por 77% do valor global homologado.
+g4;valores nominais;em 2025, o pregão eletrônico respondeu por 45% do valor global homologado.
+sd_valor;valores nominais;dos R$ 952 bi homologados no período, R$ 34,8 bi referem-se às seis categorias. Valores nominais.
+sd_part;valores nominais;a cada R$ 100 homologados, cerca de R$ 3,65 foram destinados às tecnologias críticas para a soberania digital. Valores nominais.
+g5;valores nominais;em 2025, Nuvem somou R$ 7.228 mi. Valores nominais.
+g6;valores nominais;em 2025, 3,5% do valor global homologado correspondeu às seis categorias.
+g7;valores nominais;nas tecnologias críticas, a inexigibilidade respondeu por 4,6% do valor, ante 20% no total das compras.
+g8;valores nominais;em Nuvem, 97% do valor foi contratado como objeto próprio.
+g9;valores nominais;BRASOFTWARE INFORMATICA LTDA recebeu R$ 2.389 mi em Plataformas e licenciamento, principalmente de MINISTERIO DA GESTAO E DA INOVACAO EM SERVICOS PUBLICOS. Valores nominais.
+t2;valores nominais;"em 2025, em Identidade e infraestrutura pública digital, os quatro maiores fornecedores concentraram 68% do valor (CR4) e o HHI foi 0,168; em Data center, CR4 de 28% e HHI de 0,030, o que indica compras menos concentradas."
+t3;valores nominais;em Data center, 56% do valor veio de atas de registro de preços.
+t1;valores nominais;em Nuvem, a maior cadeia de 2021 a 2026 vai de CLARO S.A. a MINISTERIO DO MEIO AMBIENTE, com R$ 1.873 mi em 2 compras, 10% da categoria. Valores nominais.
+g10ncm;valores nominais;nas tecnologias críticas para a soberania digital, R$ 1.265,1 mi em itens de material estavam cobertos por margem de preferência, mas só R$ 4,4 mi tiveram a margem efetivamente aplicada. Valores nominais.
+g10;valores nominais;0,036% do total das seis categorias teve margem de preferência aplicada.
+gm;valores nominais;Em Nuvem, subscrição ou serviço respondeu por 81% do valor de 2021 a 2026.
+gv;valores nominais;em Nuvem, empresas públicas de TI ficaram com 41% do valor dos resultados de 2021 a 2026, e revendedores ou integradores, com 20%.
+tm;valores nominais;"de 2021 a 2026, a Microsoft foi citada em 1.077 compras, com R$ 4.159 mi em resultados; revendedores ficaram com 92% desse valor, entre 390 vendedores, com HHI de 0,386. Valores nominais."
+porte;valores nominais;"de 2021 a 2026, micro ou pequenas empresas (ME ou EPP) venceram em 35% das 15.207 compras com vencedor identificado e ficaram com 4,9% do valor; o porte não foi informado em 0,1% do valor."
+gm_nota;valores nominais;Grupo de itens de desenvolvimento e serviços técnicos, equipamentos e itens sem indicação do modelo, cuja classificação automática não atingiu 80% de acerto na revisão humana. Inclui também suporte e manutenção de licença (R$ 45,9 mi) e compras sem itens com valor (R$ 213 mi). Valores nominais.
+ia_resumo_nota;valores nominais;"A tecnologia de IA soma R$ 1.282 mi: R$ 1.112 mi de 928 compras da categoria Inteligência artificial do painel e R$ 171 mi de 55 compras de acréscimo de IA a licença classificadas em outras categorias. A categoria IA do painel soma R$ 1.114 mi em 945 compras; 17 delas, com R$ 2 mi, são de capacitação. O valor de cada compra é repartido entre as classes pelos itens, como no gráfico 9, e a compra é contada uma vez, na classe de maior valor. A capacitação em IA soma R$ 34,9 mi: 1.453 compras excluídas pelo dicionário da categoria, 17 da categoria e 1 do acréscimo a licença. Valores nominais."
+gm_txt;valores nominais;Quando o modelo de aquisição é identificável, o Estado contrata por subscrição ou serviço: 81% do valor em Nuvem e 64% em Plataformas e licenciamento. O licenciamento de direitos permanentes de uso não passa de 2,3% do valor em nenhuma categoria. Em Data center, Segurança cibernética, Inteligência artificial e Identidade, a maior parte do valor (entre 59% e 78%) está em serviços técnicos, equipamentos e itens não identificados, que a classificação não separa com segurança.
+cp_valor;valores deflacionados;De cada R$ 100 homologados no período, R$ 80 concentram-se em 2024 e 2025. Valores deflacionados, a preços de agosto de 2026.
+g1_valor;valores deflacionados;em 2025, o valor global homologado foi de R$ 410 bi. Valores deflacionados, a preços de agosto de 2026.
+g2;valores deflacionados;em 2025, a esfera federal respondeu por 44% do valor global homologado.
+g3;valores deflacionados;em 2025, o Poder Executivo respondeu por 77% do valor global homologado.
+g4;valores deflacionados;em 2025, o pregão eletrônico respondeu por 45% do valor global homologado.
+sd_valor;valores deflacionados;dos R$ 1.022 bi homologados no período, R$ 37,1 bi referem-se às seis categorias. Valores deflacionados, a preços de agosto de 2026.
+sd_part;valores deflacionados;a cada R$ 100 homologados, cerca de R$ 3,63 foram destinados às tecnologias críticas para a soberania digital. Valores deflacionados, a preços de agosto de 2026.
+g5;valores deflacionados;em 2025, Nuvem somou R$ 7.571 mi. Valores deflacionados, a preços de agosto de 2026.
+g6;valores deflacionados;em 2025, 3,5% do valor global homologado correspondeu às seis categorias.
+g7;valores deflacionados;nas tecnologias críticas, a inexigibilidade respondeu por 4,6% do valor, ante 20% no total das compras.
+g8;valores deflacionados;em Nuvem, 97% do valor foi contratado como objeto próprio.
+g9;valores deflacionados;BRASOFTWARE INFORMATICA LTDA recebeu R$ 2.550 mi em Plataformas e licenciamento, principalmente de MINISTERIO DA GESTAO E DA INOVACAO EM SERVICOS PUBLICOS. Valores deflacionados, a preços de agosto de 2026.
+t2;valores deflacionados;"em 2025, em Identidade e infraestrutura pública digital, os quatro maiores fornecedores concentraram 67% do valor (CR4) e o HHI foi 0,168; em Data center, CR4 de 28% e HHI de 0,030, o que indica compras menos concentradas."
+t3;valores deflacionados;em Data center, 56% do valor veio de atas de registro de preços.
+t1;valores deflacionados;em Nuvem, a maior cadeia de 2021 a 2026 vai de CLARO S.A. a MINISTERIO DO MEIO AMBIENTE, com R$ 2.064 mi em 2 compras, 11% da categoria. Valores deflacionados, a preços de agosto de 2026.
+g10ncm;valores deflacionados;nas tecnologias críticas para a soberania digital, R$ 1.309,6 mi em itens de material estavam cobertos por margem de preferência, mas só R$ 4,5 mi tiveram a margem efetivamente aplicada. Valores deflacionados, a preços de agosto de 2026.
+g10;valores deflacionados;0,034% do total das seis categorias teve margem de preferência aplicada.
+gm;valores deflacionados;Em Nuvem, subscrição ou serviço respondeu por 82% do valor de 2021 a 2026.
+gv;valores deflacionados;em Nuvem, empresas públicas de TI ficaram com 41% do valor dos resultados de 2021 a 2026, e revendedores ou integradores, com 20%.
+tm;valores deflacionados;"de 2021 a 2026, a Microsoft foi citada em 1.077 compras, com R$ 4.450 mi em resultados; revendedores ficaram com 92% desse valor, entre 390 vendedores, com HHI de 0,383. Valores deflacionados, a preços de agosto de 2026."
+porte;valores deflacionados;"de 2021 a 2026, micro ou pequenas empresas (ME ou EPP) venceram em 35% das 15.207 compras com vencedor identificado e ficaram com 4,9% do valor; o porte não foi informado em 0,1% do valor."
+gm_nota;valores deflacionados;Grupo de itens de desenvolvimento e serviços técnicos, equipamentos e itens sem indicação do modelo, cuja classificação automática não atingiu 80% de acerto na revisão humana. Inclui também suporte e manutenção de licença (R$ 49,8 mi) e compras sem itens com valor (R$ 213 mi). Valores deflacionados, a preços de agosto de 2026.
+ia_resumo_nota;valores deflacionados;"A tecnologia de IA soma R$ 1.351 mi: R$ 1.168 mi de 928 compras da categoria Inteligência artificial do painel e R$ 183 mi de 55 compras de acréscimo de IA a licença classificadas em outras categorias. A categoria IA do painel soma R$ 1.170 mi em 945 compras; 17 delas, com R$ 2,1 mi, são de capacitação. O valor de cada compra é repartido entre as classes pelos itens, como no gráfico 9, e a compra é contada uma vez, na classe de maior valor. A capacitação em IA soma R$ 36,4 mi: 1.453 compras excluídas pelo dicionário da categoria, 17 da categoria e 1 do acréscimo a licença. Valores deflacionados, a preços de agosto de 2026."
+gm_txt;valores deflacionados;Quando o modelo de aquisição é identificável, o Estado contrata por subscrição ou serviço: 82% do valor em Nuvem e 64% em Plataformas e licenciamento. O licenciamento de direitos permanentes de uso não passa de 2,3% do valor em nenhuma categoria. Em Data center, Segurança cibernética, Inteligência artificial e Identidade, a maior parte do valor (entre 59% e 78%) está em serviços técnicos, equipamentos e itens não identificados, que a classificação não separa com segurança.

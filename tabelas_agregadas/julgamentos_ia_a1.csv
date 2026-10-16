@@ -1,0 +1,101 @@
+ficha;id_compra;classe;pertinente;motivo
+0;32302807001812025;Capacitação;sim;
+1;11015607000772024;Capacitação;sim;
+2;07001307000342026;Capacitação;sim;
+3;74205007900062023;Capacitação;sim;
+4;09000607902502022;Capacitação;sim;
+5;03020307000702025;Capacitação;sim;
+6;11015607000262026;Capacitação;sim;
+7;17001807000142025;Capacitação;sim;
+8;15317607000342023;Capacitação;sim;
+9;92540007000782025;Capacitação;sim;
+10;93140107000392025;Capacitação;sim;
+11;15841907000112024;Capacitação;não;"evento de gestao de pessoas; o motivo principal foi um painel sobre felicidade corporativa, nao IA"
+12;03020307001322024;Capacitação;sim;
+13;15306507003082025;Capacitação;sim;
+14;07002507000312024;Capacitação;sim;
+15;16014307001102025;Capacitação;sim;
+16;92645407001022025;Capacitação;sim;
+17;41300107000462024;Capacitação;sim;
+18;98590307003092025;Capacitação;sim;
+19;03010007005812025;Capacitação;sim;
+20;93061805900222025;Acréscimo à licença;sim;
+21;92615106000062025;Acréscimo à licença;sim;
+22;92609905900052025;Acréscimo à licença;sim;
+23;25442005900282024;Acréscimo à licença;sim;
+24;07001905900362024;Acréscimo à licença;sim;
+25;04000305900212024;Acréscimo à licença;não;so Copilot Studio, produto vendido a parte, sem acrescimo a licenca existente
+26;19309905900202024;Acréscimo à licença;sim;
+27;11079205900142025;Acréscimo à licença;sim;
+28;92500705900522024;Acréscimo à licença;sim;
+29;25011005901632025;Acréscimo à licença;sim;
+30;93021605900152024;Acréscimo à licença;sim;
+31;99000106001232026;Acréscimo à licença;não;assinaturas de ChatGPT, Gemini e Claude: IA exclusiva, nao acrescimo a licenca
+32;92501105900102024;Acréscimo à licença;sim;
+33;92628406000142025;Acréscimo à licença;sim;
+34;41000305900012025;Acréscimo à licença;sim;
+35;92609905900082024;Acréscimo à licença;sim;
+36;15000405900052025;Acréscimo à licença;não;so Copilot Studio (educacao), produto vendido a parte
+37;20000905900132024;Acréscimo à licença;sim;
+38;92586905900432024;Acréscimo à licença;sim;
+39;38904705900022024;Acréscimo à licença;sim;
+40;16800306000362025;IA exclusiva;não;sistema de controle de acesso (equipamento) com reconhecimento facial
+41;17908505900082026;IA exclusiva;não;servicos tecnicos de apoio a supervisao de modelos, nao so a solucao de IA
+42;92547806000162024;IA exclusiva;não;formacao de professores em IA (capacitacao)
+43;93074905900012024;IA exclusiva;sim;
+44;92647006000322025;IA exclusiva;não;seguranca eletronica com IA (servico mais amplo)
+45;15814406000622026;IA exclusiva;não;projeto com solucoes digitais, IA, ciencia de dados e geoprocessamento (varios componentes)
+46;38925506000042024;IA exclusiva;sim;
+47;16054806900152024;IA exclusiva;não;controladores de acesso com reconhecimento facial (equipamento)
+48;45657805900492025;IA exclusiva;não;aplicativo multiplataforma e chatbot (varios componentes)
+49;45386006003442025;IA exclusiva;não;API de dados juridicos publicos, nao solucao de IA
+50;92501806000822026;IA exclusiva;não;solucao de videoconferencia (equipamento) com recursos de IA
+51;20012506000152022;IA exclusiva;sim;
+52;92653807000642025;IA exclusiva;sim;
+53;45016107008062024;IA exclusiva;não;terminal com reconhecimento facial (equipamento)
+54;11470206000112022;IA exclusiva;sim;
+55;15829607000062026;IA exclusiva;não;formacao de profissionais da educacao em IA (capacitacao)
+56;45597806001132026;IA exclusiva;sim;
+57;38920006000102023;IA exclusiva;sim;
+58;92635707000102025;IA exclusiva;não;assinatura de ecossistema de ensino de IA (capacitacao)
+59;92630207002172024;IA exclusiva;não;workshop sobre IA (capacitacao)
+60;38932007000082025;Pacote multi-software;sim;
+61;25444707001672025;Pacote multi-software;sim;
+62;92589907000612024;Pacote multi-software;não;solucao de reconhecimento facial e analise de imagens: IA exclusiva, nao pacote
+63;93500206900072023;Pacote multi-software;sim;
+64;92515305900382025;Pacote multi-software;sim;
+65;98786105000362023;Pacote multi-software;sim;
+66;93139606900022024;Pacote multi-software;não;sistema de frequencia com registrador fisico (equipamento), sem varios softwares
+67;38910306900122024;Pacote multi-software;sim;
+68;01000106000942025;Pacote multi-software;sim;
+69;20300306000532025;Pacote multi-software;sim;
+70;92546105900052026;Pacote multi-software;sim;
+71;92658806000052026;Pacote multi-software;sim;
+72;92512905900152026;Pacote multi-software;sim;
+73;92546707000512024;Pacote multi-software;sim;
+74;25300205900012025;Pacote multi-software;sim;
+75;92515005900142025;Pacote multi-software;sim;
+76;15450305900082024;Pacote multi-software;não;um unico software (Canva Pro), sem pacote de varios softwares
+77;92908206000012026;Pacote multi-software;sim;
+78;98672705901012025;Pacote multi-software;sim;
+79;07001906000162025;Pacote multi-software;sim;
+80;20037606900042024;Outros;sim;
+81;92924106000112025;Outros;sim;
+82;16011307000022024;Outros;sim;
+83;92654307000202024;Outros;sim;
+84;45340505900262026;Outros;sim;
+85;45371405900162025;Outros;sim;
+86;45010705900072025;Outros;sim;
+87;10211605900502025;Outros;sim;
+88;98799305900222025;Outros;sim;
+89;16800507001632025;Outros;sim;
+90;45043205900232024;Outros;sim;
+91;20038606900042025;Outros;sim;
+92;10230606001562025;Outros;sim;
+93;18010105900222025;Outros;sim;
+94;98991305900212025;Outros;sim;
+95;07000305000332023;Outros;sim;
+96;20024706000192025;Outros;sim;
+97;78881006000152026;Outros;sim;
+98;09002906900042024;Outros;sim;
+99;92684105900372025;Outros;sim;

@@ -1,0 +1,7 @@
+id_compra;classe;revisao_humana;julgamento_anterior;revisoes_concordam;motivo
+93139606000032026;Capacitação;certo;não;não;"revisão humana marcou certo; julgamento anterior (não pertinente): sistema de controle de ponto com treinamento de usuarios, nao capacitacao em IA"
+09002106000772025;Capacitação;errado;sim;não;falso positivo: compra de alimentação (lanches para curso de IA), não capacitação
+12062805901142025;Solução de IA (exclusiva ou em pacote);certo;não;não;"revisão humana marcou certo; julgamento anterior (não pertinente): sistema de registro de ponto com reconhecimento facial e plataforma de RH (equipamento e sistema de gestao de pessoal)"
+08001207000032023;Solução de IA (exclusiva ou em pacote);errado;não;sim;palestra sobre ChatGPT: deveria ser Capacitação
+92676406902102024;Solução de IA (exclusiva ou em pacote);certo;não;não;"revisão humana marcou certo; julgamento anterior (não pertinente): desenvolvimento de aplicativo sob encomenda com analise por IA (servico mais amplo)"
+15813705903072025;Outros;errado;sim;não;manutenção de sistema de CFTV: não é IA

@@ -1,0 +1,19 @@
+dimensao;categoria;itens;valor_margem_aplicada
+ano;2025;402;488783298.63339996
+ano;2026;197;21048641.9474
+ano;2024;13;1931541.8
+elegibilidade;fora da elegibilidade;279;448685332.673
+elegibilidade;dentro da elegibilidade;333;63078149.7078
+fora da elegibilidade x periodo;a partir de 01/09/2024 | material | ncm_do_item;64;245058022.18
+fora da elegibilidade x periodo;a partir de 01/09/2024 | material | sem_ncm;80;182173240.32000002
+fora da elegibilidade x periodo;a partir de 01/09/2024 | material | tradutor_ia;131;20670173.393000007
+fora da elegibilidade x periodo;a partir de 01/09/2024 | servico | sem_ncm;3;781796.78
+fora da elegibilidade x periodo;a partir de 01/09/2024 | material | tradutor_humano;1;2100.0
+origem do NCM;ncm_do_item;375;305100739.3378
+origem do NCM;sem_ncm;83;182955037.10000002
+origem do NCM;tradutor_ia;137;20875753.893000007
+origem do NCM;tradutor_humano;17;2831952.05
+periodo;a partir de 01/09/2024;612;511763482.3807999
+tipo de item;material;609;510981685.6007999
+tipo de item;servico;3;781796.78
+total;total;612;511763482.3807999

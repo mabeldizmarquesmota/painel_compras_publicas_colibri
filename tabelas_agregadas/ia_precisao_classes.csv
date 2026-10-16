@@ -1,0 +1,16 @@
+classe;rodada;dicionario;compras_julgadas;pertinentes;precisao_pct;rodada_final
+Capacitação;ia_a1;versão 1;20;19;95.0;não
+Acréscimo à licença;ia_a1;versão 1;20;17;85.0;não
+IA exclusiva;ia_a1;versão 1;20;7;35.0;não
+Pacote multi-software;ia_a1;versão 1;20;17;85.0;não
+Outros;ia_a1;versão 1;20;20;100.0;não
+Capacitação;ia_a2;versão 2;20;19;95.0;não
+Acréscimo à licença;ia_a2;versão 2;20;19;95.0;sim
+IA exclusiva;ia_a2;versão 2;20;12;60.0;não
+Pacote multi-software;ia_a2;versão 2;20;17;85.0;não
+Outros;ia_a2;versão 2;20;18;90.0;não
+Capacitação;ia_a3;versão 3;20;19;95.0;sim
+IA exclusiva;ia_a3;versão 3;20;13;65.0;não
+Pacote multi-software;ia_a3;versão 3;20;15;75.0;não
+Outros;ia_a3;versão 3;20;19;95.0;sim
+Solução de IA (exclusiva ou em pacote);ia_a4;versão 3, classes somadas;20;17;85.0;sim

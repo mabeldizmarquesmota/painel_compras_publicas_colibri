@@ -1,0 +1,17 @@
+ordem;classe;rodada;dicionario;julgados;pertinentes;precisao_pct
+1;Acréscimo a licença existente;a1;v1;100;84;84.0
+2;Subscrição ou serviço;a1;v1;100;84;84.0
+3;Licenciamento de direitos permanentes de uso;a1;v1;100;64;64.0
+4;Suporte e manutenção de licença;a1;v1;100;26;26.0
+5;Desenvolvimento e serviços técnicos;a1;v1;100;80;80.0
+6;Equipamentos e infraestrutura física;a1;v1;100;93;93.0
+7;Não identificado;a1;v1;100;63;63.0
+2;Subscrição ou serviço;a2;v2;100;93;93.0
+3;Licenciamento de direitos permanentes de uso;a2;v2;100;81;81.0
+4;Suporte e manutenção de licença;a2;v2;93;42;45.2
+5;Desenvolvimento e serviços técnicos;a2;v2;100;84;84.0
+6;Equipamentos e infraestrutura física;a2;v2;100;95;95.0
+7;Não identificado;a2;v2;100;82;82.0
+3;Licenciamento de direitos permanentes de uso;a3;v3;100;86;86.0
+7;Não identificado;a3;v3;100;82;82.0
+4;Suporte e manutenção de licença;a1+a2 (mesmos itens do ajuste);v3;47;38;80.9

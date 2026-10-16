@@ -1,0 +1,120 @@
+categoria;ano;tipo_vendedor;valor_nominal;valor_deflacionado
+data_center;2021;Demais fornecedores privados;213362.8;267414.09742831206
+data_center;2022;Demais fornecedores privados;1289889.38;1532253.8852565493
+data_center;2022;Empresa pública de TI;10455.0;12326.893764220145
+data_center;2022;Fabricante direto;3162317.0900000003;3728507.5865335055
+data_center;2022;Revendedor ou integrador;63444.99;75409.8905846044
+data_center;2023;Demais fornecedores privados;541693194.2334;615024498.771739
+data_center;2023;Empresa pública de TI;1687961.1099999999;1905746.4853228536
+data_center;2023;Fabricante direto;63063343.93;72221573.4052874
+data_center;2023;Revendedor ou integrador;135454052.32;153460020.00451413
+data_center;2024;Demais fornecedores privados;1385875091.2048001;1510402297.7097814
+data_center;2024;Empresa pública de TI;105012251.868;114895415.18513644
+data_center;2024;Fabricante direto;7134793.840000001;7845263.784894278
+data_center;2024;Outra empresa estatal;500000.0;549824.8940072117
+data_center;2024;Revendedor ou integrador;158289312.93;175093701.75008267
+data_center;2025;Demais fornecedores privados;1696940418.4774;1772259376.5390162
+data_center;2025;Empresa pública de TI;52627096.35;54894336.05218403
+data_center;2025;Outra empresa estatal;533963.52;556515.0800282361
+data_center;2025;Revendedor ou integrador;232048844.4094;243154147.4705247
+data_center;2026;Demais fornecedores privados;175951669.35939997;179240330.48563492
+data_center;2026;Empresa pública de TI;38148107.36;38803410.35821652
+data_center;2026;Revendedor ou integrador;4763230.9;4892383.771067907
+ia;2022;Demais fornecedores privados;451817.4;537505.5556051962
+ia;2022;Revendedor ou integrador;25100.0;30221.50517851725
+ia;2023;Demais fornecedores privados;4704221.192;5349963.148909727
+ia;2023;Revendedor ou integrador;13931.0;15879.160050805727
+ia;2024;Demais fornecedores privados;210371538.1572;229834898.6479567
+ia;2024;Empresa pública de TI;13441489.030000001;14503471.700064808
+ia;2024;Revendedor ou integrador;64412308.34080002;69527436.48332778
+ia;2025;Demais fornecedores privados;452187507.8086;472512974.4548452
+ia;2025;Empresa pública de TI;15801274.2728;16416894.02308565
+ia;2025;Revendedor ou integrador;128747025.08000001;134686437.0716026
+ia;2026;Demais fornecedores privados;54476178.0447;55706511.0018984
+ia;2026;Empresa pública de TI;156078651.36879998;157750947.4594631
+ia;2026;Revendedor ou integrador;11210984.13;11414002.278727477
+identidade;2021;Demais fornecedores privados;368253.26999999996;463294.84318731213
+identidade;2021;Revendedor ou integrador;2903.96;3648.4077678090885
+identidade;2022;Demais fornecedores privados;1633574.12;1951051.1796880858
+identidade;2022;Empresa pública de TI;1412580.8;1666981.1503182207
+identidade;2023;Demais fornecedores privados;85109971.6303;96779938.58990961
+identidade;2023;Empresa pública de TI;7314166.7;8291367.756384616
+identidade;2023;Outra empresa estatal;134031.8;152554.02637403074
+identidade;2023;Revendedor ou integrador;9296.0;10643.448360075412
+identidade;2024;Demais fornecedores privados;191536002.68739995;210774503.05587333
+identidade;2024;Empresa pública de TI;18000908.43739999;19868748.08470558
+identidade;2024;Outra empresa estatal;9987949.84;11081036.46640363
+identidade;2024;Revendedor ou integrador;1049889.7;1161376.9415627085
+identidade;2025;Demais fornecedores privados;486736034.64150006;507248465.9438108
+identidade;2025;Empresa pública de TI;128146523.0733;132415799.52465111
+identidade;2025;Outra empresa estatal;2402010.8;2534163.617226758
+identidade;2025;Revendedor ou integrador;1518688.3272;1583586.534397476
+identidade;2026;Demais fornecedores privados;13636358.728200002;13884569.680069702
+identidade;2026;Empresa pública de TI;19669226.3996;20029217.120798435
+identidade;2026;Outra empresa estatal;2500.0;2497.7356465514417
+identidade;2026;Revendedor ou integrador;33780.0;34425.258511387074
+nuvem;2021;Demais fornecedores privados;93775.46;117651.13748953238
+nuvem;2021;Revendedor ou integrador;118835.0;149759.85750688563
+nuvem;2022;Demais fornecedores privados;1970954.5699999998;2347755.1345218667
+nuvem;2022;Revendedor ou integrador;371412.16;443022.9443194652
+nuvem;2023;Demais fornecedores privados;694860807.3374001;792603198.4414186
+nuvem;2023;Empresa pública de TI;90936724.28999999;103279796.60848664
+nuvem;2023;Fabricante direto;100246206.14999999;114592814.64034197
+nuvem;2023;Revendedor ou integrador;163010155.73;185329061.26659974
+nuvem;2024;Demais fornecedores privados;3647456909.267599;4002499246.8232007
+nuvem;2024;Empresa pública de TI;688642469.1509999;751342799.4242264
+nuvem;2024;Fabricante direto;80692196.48;88831221.40615033
+nuvem;2024;Outra empresa estatal;5207.35;5630.616647245385
+nuvem;2024;Revendedor ou integrador;1211773661.3546;1324839887.218959
+nuvem;2025;Demais fornecedores privados;1452716032.4351;1520833586.9162002
+nuvem;2025;Empresa pública de TI;3534001307.1759996;3704388776.090313
+nuvem;2025;Fabricante direto;23353116.42;24144263.282212675
+nuvem;2025;Outra empresa estatal;412330803.49;430992567.23742646
+nuvem;2025;Revendedor ou integrador;1806737038.1727;1892400944.8413303
+nuvem;2026;Demais fornecedores privados;568363583.4719;582018460.885554
+nuvem;2026;Empresa pública de TI;3299748510.8376;3363136001.1640787
+nuvem;2026;Outra empresa estatal;199815151.8;201461117.41997942
+nuvem;2026;Revendedor ou integrador;422740520.02129996;427960715.70157576
+plataformas;2021;Demais fornecedores privados;346722.6;437467.8649786303
+plataformas;2021;Revendedor ou integrador;256268.44999999998;320942.4655494968
+plataformas;2022;Demais fornecedores privados;3036069.06;3621093.257030869
+plataformas;2022;Revendedor ou integrador;856390.5800000001;1019371.91829241
+plataformas;2023;Demais fornecedores privados;974197491.5883;1108693798.9553154
+plataformas;2023;Empresa pública de TI;8045944.0;9118266.677423522
+plataformas;2023;Fabricante direto;2493286.7499999995;2843189.5461478876
+plataformas;2023;Outra empresa estatal;873.19;997.3037346482566
+plataformas;2023;Revendedor ou integrador;791662457.9933999;900963024.6980774
+plataformas;2024;Demais fornecedores privados;2120999839.2114003;2320907482.840104
+plataformas;2024;Empresa pública de TI;120326065.04560001;131873436.17677961
+plataformas;2024;Fabricante direto;22741412.1453;25112466.34050806
+plataformas;2024;Revendedor ou integrador;2724765472.0298004;2967514995.4196744
+plataformas;2025;Demais fornecedores privados;2133015206.9438007;2232360353.916882
+plataformas;2025;Empresa pública de TI;224790292.86;235745246.9344565
+plataformas;2025;Fabricante direto;9365299.816;9808563.981078926
+plataformas;2025;Revendedor ou integrador;1997238416.4961002;2090307061.3525264
+plataformas;2026;Demais fornecedores privados;343668281.919;351000815.0052917
+plataformas;2026;Empresa pública de TI;3331712.64;3412372.89039366
+plataformas;2026;Fabricante direto;2218104.48;2256670.600172493
+plataformas;2026;Outra empresa estatal;15895.0;15972.716338274033
+plataformas;2026;Revendedor ou integrador;316309087.4413;318969393.4465416
+seguranca;2021;Demais fornecedores privados;139920.46000000002;177385.107099916
+seguranca;2022;Demais fornecedores privados;1204297.08;1429304.6438821454
+seguranca;2022;Revendedor ou integrador;22729.6;27810.79589878361
+seguranca;2023;Demais fornecedores privados;433599311.456;490852267.5375165
+seguranca;2023;Empresa pública de TI;1136872.24;1292014.3586620132
+seguranca;2023;Fabricante direto;2682380.7299999995;3056882.4483179552
+seguranca;2023;Revendedor ou integrador;121949381.99000001;138509892.43160316
+seguranca;2024;Demais fornecedores privados;1241584139.2919998;1353600783.6996088
+seguranca;2024;Empresa pública de TI;27756515.93;30361289.495650157
+seguranca;2024;Fabricante direto;755137.4748999999;818785.4927652796
+seguranca;2024;Revendedor ou integrador;295418254.16;321670005.3828237
+seguranca;2025;Demais fornecedores privados;1389782851.6782;1455200258.729324
+seguranca;2025;Empresa pública de TI;108295911.32;111762454.69022107
+seguranca;2025;Fabricante direto;36979.3092;38541.103367561314
+seguranca;2025;Outra empresa estatal;177564240.0;183822917.34820175
+seguranca;2025;Revendedor ou integrador;259974585.94489998;271903689.7383314
+seguranca;2026;Demais fornecedores privados;352679125.28999996;360049663.81305933
+seguranca;2026;Empresa pública de TI;20700259.48;21134622.627989277
+seguranca;2026;Fabricante direto;106262.41;106781.9649167269
+seguranca;2026;Outra empresa estatal;31925541.8;32767845.63611271
+seguranca;2026;Revendedor ou integrador;5604264.04;5728046.785370426

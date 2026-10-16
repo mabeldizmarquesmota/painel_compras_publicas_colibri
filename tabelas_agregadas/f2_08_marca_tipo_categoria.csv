@@ -1,0 +1,89 @@
+categoria;marca;tipo_vendedor;compras;valor_homologado_resultados
+data_center;Cisco;Revendedor ou integrador;17;97218889.37
+data_center;Google;Revendedor ou integrador;1;4209000.0
+data_center;Huawei;Revendedor ou integrador;18;8807234.7
+data_center;IBM;Fabricante direto;3;3482744.53
+data_center;IBM;Revendedor ou integrador;17;1461523.51
+data_center;IBM;Empresa pública de TI;1;459989.2
+data_center;Microsoft;Revendedor ou integrador;43;184138498.80940002
+data_center;Microsoft;Empresa pública de TI;1;215180.0
+data_center;Oracle;Revendedor ou integrador;10;103605556.72
+data_center;Oracle;Fabricante direto;6;69877710.33000001
+data_center;Red Hat;Revendedor ou integrador;11;38898680.36
+data_center;VMware/Broadcom;Revendedor ou integrador;17;93011002.08000001
+ia;Adobe;Revendedor ou integrador;1;44116.28
+ia;Amazon/AWS;Revendedor ou integrador;1;162086.4
+ia;Google;Revendedor ou integrador;16;17515926.340800002
+ia;Google;Empresa pública de TI;1;303040.0
+ia;IBM;Revendedor ou integrador;1;888000.0
+ia;Microsoft;Revendedor ou integrador;17;185485039.99
+ia;Microsoft;Empresa pública de TI;1;18018.68
+ia;Red Hat;Revendedor ou integrador;3;358295.82
+identidade;Adobe;Revendedor ou integrador;7;1370924.1099999999
+identidade;Google;Revendedor ou integrador;9;82554.76
+identidade;Microsoft;Revendedor ou integrador;22;951433.5272
+identidade;Microsoft;Empresa pública de TI;1;40400.18
+identidade;Oracle;Revendedor ou integrador;1;2200.0
+identidade;Red Hat;Revendedor ou integrador;2;309894.69999999995
+nuvem;Adobe;Revendedor ou integrador;57;50504934.9475
+nuvem;Amazon/AWS;Revendedor ou integrador;29;94133591.32
+nuvem;Amazon/AWS;Empresa pública de TI;5;59746388.269999996
+nuvem;Amazon/AWS;Fabricante direto;3;11892245.3
+nuvem;Check Point;Revendedor ou integrador;3;3923927.92
+nuvem;Cisco;Revendedor ou integrador;7;1281197.3199999998
+nuvem;Fortinet;Revendedor ou integrador;9;4595498.859999999
+nuvem;Google;Revendedor ou integrador;147;786583561.8182
+nuvem;Google;Empresa pública de TI;9;13203514.596
+nuvem;Huawei;Revendedor ou integrador;3;405561000.0
+nuvem;Huawei;Empresa pública de TI;1;25934329.2
+nuvem;IBM;Revendedor ou integrador;8;81743458.68
+nuvem;IBM;Empresa pública de TI;1;1627816.61
+nuvem;Microsoft;Revendedor ou integrador;268;1348975341.2647996
+nuvem;Microsoft;Empresa pública de TI;33;240589748.40559998
+nuvem;Oracle;Revendedor ou integrador;29;383422674.51
+nuvem;Oracle;Fabricante direto;11;192399273.75
+nuvem;Oracle;Empresa pública de TI;4;26811856.970000003
+nuvem;Red Hat;Revendedor ou integrador;8;153546078.53
+nuvem;Salesforce;Revendedor ou integrador;4;23147350.138100002
+nuvem;Salesforce;Empresa pública de TI;1;31454.04
+nuvem;VMware/Broadcom;Revendedor ou integrador;22;484330512.15
+plataformas;Adobe;Revendedor ou integrador;303;102198522.23999996
+plataformas;Adobe;Fabricante direto;1;8388.0
+plataformas;Amazon/AWS;Revendedor ou integrador;6;12613560.02
+plataformas;Check Point;Revendedor ou integrador;10;28656369.080000002
+plataformas;Cisco;Revendedor ou integrador;19;16105277.81
+plataformas;Fortinet;Revendedor ou integrador;23;44270076.440000005
+plataformas;Google;Revendedor ou integrador;53;123445737.2877
+plataformas;Google;Empresa pública de TI;2;210237.84000000003
+plataformas;Huawei;Revendedor ou integrador;2;1339456.88
+plataformas;IBM;Revendedor ou integrador;14;84536531.52000001
+plataformas;IBM;Fabricante direto;3;7429726.2157000005
+plataformas;Microsoft;Revendedor ou integrador;919;3295072788.7736053
+plataformas;Microsoft;Empresa pública de TI;45;307185201.0055999
+plataformas;Oracle;Revendedor ou integrador;47;95039263.10000002
+plataformas;Oracle;Fabricante direto;51;29379988.975599997
+plataformas;Palo Alto;Revendedor ou integrador;11;19792016.09
+plataformas;Red Hat;Revendedor ou integrador;92;892694638.9251
+plataformas;Red Hat;Empresa pública de TI;1;8702684.639999999
+plataformas;SAP;Revendedor ou integrador;9;34900539.76
+plataformas;Salesforce;Revendedor ou integrador;10;224746845.9635
+plataformas;Salesforce;Empresa pública de TI;1;52123.32
+plataformas;VMware/Broadcom;Revendedor ou integrador;111;965997997.4419999
+seguranca;Adobe;Revendedor ou integrador;4;1657235.12
+seguranca;Amazon/AWS;Revendedor ou integrador;4;1840382.4
+seguranca;Check Point;Revendedor ou integrador;27;173887439.82000005
+seguranca;Cisco;Revendedor ou integrador;13;20722351.34
+seguranca;Fortinet;Revendedor ou integrador;99;128338047.70000002
+seguranca;Fortinet;Empresa pública de TI;1;857244.0
+seguranca;Google;Revendedor ou integrador;11;1881141.6400000001
+seguranca;Huawei;Revendedor ou integrador;2;9744000.0
+seguranca;IBM;Revendedor ou integrador;12;3393859.92
+seguranca;IBM;Fabricante direto;7;1235743.3748999997
+seguranca;Microsoft;Revendedor ou integrador;70;94322262.62490001
+seguranca;Microsoft;Empresa pública de TI;1;63084.0
+seguranca;Oracle;Fabricante direto;6;2345016.5492
+seguranca;Oracle;Revendedor ou integrador;5;1194373.54
+seguranca;Oracle;Empresa pública de TI;1;86748.0
+seguranca;Palo Alto;Revendedor ou integrador;25;103929721.57
+seguranca;Red Hat;Revendedor ou integrador;1;1272000.0
+seguranca;VMware/Broadcom;Revendedor ou integrador;18;146818231.85

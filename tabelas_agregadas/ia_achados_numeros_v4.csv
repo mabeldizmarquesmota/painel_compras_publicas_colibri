@@ -1,0 +1,12 @@
+achado;indicador;valor_exibido;arquivo_de_origem;base
+1;valor da tecnologia de IA;R$ 1,28 bilhão;ia_base_classes.csv;valor homologado repartido pelas classes
+1;compras de tecnologia de IA;983;ia_base.csv;compras
+1;participação de solução de IA;45%;ia_base_classes.csv;valor homologado repartido pelas classes
+2;compras de capacitação em IA;1.471;ia_base.csv;compras
+2;valor da capacitação em IA;R$ 34,9 milhões;ia_base_classes.csv;valor homologado repartido pelas classes
+3;participação do Copilot no acréscimo;75%;ia_base_classes.csv;valor homologado repartido pelas classes
+3;valor do acréscimo à licença;R$ 147 milhões;ia_base_classes.csv;valor homologado repartido pelas classes
+3;compras com parte de acréscimo à licença;56;ia_base_classes.csv;compras com parte de acréscimo
+3;participação do Gemini no acréscimo;25%;ia_base_classes.csv;valor homologado repartido pelas classes
+4;participação dos 10 maiores fornecedores (CNPJ do vencedor);72%;ia_resultados.csv;valor dos resultados
+4;fornecedores da tecnologia de IA (CNPJ do vencedor);541;ia_resultados.csv;valor dos resultados

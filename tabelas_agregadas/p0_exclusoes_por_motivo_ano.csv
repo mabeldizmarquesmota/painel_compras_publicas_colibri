@@ -1,0 +1,22 @@
+ano;motivo_principal;n_compras;valor_homologado_bruto_excluido
+2021;regra_1_valor_preenchimento;4;184099.97999999998
+2021;regra_2_divergencia (sem regra 1);11;191538.69
+2021;regra_3_inconsistencia_itens (sem regras 1 e 2);82;972464.3300000001
+2022;regra_1_valor_preenchimento;4;17339.199999999997
+2022;regra_2_divergencia (sem regra 1);27;982506.9201
+2022;regra_3_inconsistencia_itens (sem regras 1 e 2);159;3862696.4758
+2023;regra_1_valor_preenchimento;8;233212.58000000002
+2023;regra_2_divergencia (sem regra 1);122;40646029.0796
+2023;regra_3_inconsistencia_itens (sem regras 1 e 2);581;379601103.28749996
+2024;regra_1_valor_preenchimento;53;5190697673264.319
+2024;regra_2_divergencia (sem regra 1);1802;8191065877.845736
+2024;regra_3_inconsistencia_itens (sem regras 1 e 2);2477;1774368038.8703003
+2024;revisao_manual_erro_provavel;4;543041284179.71
+2025;regra_1_valor_preenchimento;59;14590802616.199799
+2025;regra_2_divergencia (sem regra 1);5312;10826973399.90489
+2025;regra_3_inconsistencia_itens (sem regras 1 e 2);2551;1511770875.3119004
+2025;revisao_manual_erro_provavel;8;766801034060.0
+2026;regra_1_valor_preenchimento;12;783535.4599
+2026;regra_2_divergencia (sem regra 1);1224;160381461.7613001
+2026;regra_3_inconsistencia_itens (sem regras 1 e 2);495;186872803.60739997
+2026;revisao_manual_erro_provavel;4;129908245802.79001
