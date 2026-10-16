@@ -1,0 +1,51 @@
+id;classe;rodada;pertinente_julgamento_anterior;motivo
+07001307000542025;Capacitação;ia_a3;sim;
+19312207000082026;Capacitação;ia_a3;sim;
+20010807000022024;Capacitação;ia_a3;sim;
+92651407000052025;Capacitação;ia_a3;sim;
+11321407001182026;Capacitação;ia_a3;sim;
+93139606000032026;Capacitação;ia_a3;não;sistema de controle de ponto com treinamento de usuarios, nao capacitacao em IA
+17303907000432026;Capacitação;ia_a3;sim;
+09002106000772025;Capacitação;ia_a3;sim;
+11360107000902025;Capacitação;ia_a3;sim;
+92530607000232025;Capacitação;ia_a3;sim;
+11470205900182024;Acréscimo à licença;ia_a2;sim;
+92630305900152024;Acréscimo à licença;ia_a2;sim;
+92560305900462024;Acréscimo à licença;ia_a2;sim;
+97420005900262025;Acréscimo à licença;ia_a2;sim;
+92645805900102025;Acréscimo à licença;ia_a2;sim;
+25500005900392025;Acréscimo à licença;ia_a2;sim;
+92656005900102025;Acréscimo à licença;ia_a2;sim;
+92641505900482024;Acréscimo à licença;ia_a2;sim;
+03000105900172024;Acréscimo à licença;ia_a2;sim;
+32302805900142025;Acréscimo à licença;ia_a2;sim;
+92723706900112024;Solução de IA (exclusiva ou em pacote);ia_a4;sim;
+93330007000022025;Solução de IA (exclusiva ou em pacote);ia_a4;sim;
+41300106000292025;Solução de IA (exclusiva ou em pacote);ia_a4;sim;
+12000607901532023;Solução de IA (exclusiva ou em pacote);ia_a4;sim;
+98788505900572026;Solução de IA (exclusiva ou em pacote);ia_a4;sim;
+09002705900312025;Solução de IA (exclusiva ou em pacote);ia_a4;sim;
+45373707000122024;Solução de IA (exclusiva ou em pacote);ia_a4;sim;
+12000607003542025;Solução de IA (exclusiva ou em pacote);ia_a4;sim;
+92625405900012026;Solução de IA (exclusiva ou em pacote);ia_a4;sim;
+92601705900032025;Solução de IA (exclusiva ou em pacote);ia_a4;sim;
+12062805901142025;Solução de IA (exclusiva ou em pacote);ia_a4;não;sistema de registro de ponto com reconhecimento facial e plataforma de RH (equipamento e sistema de gestao de pessoal)
+08001207000032023;Solução de IA (exclusiva ou em pacote);ia_a4;não;palestra sobre ChatGPT e Direito (capacitacao)
+98904705900152025;Solução de IA (exclusiva ou em pacote);ia_a4;sim;
+92553507001702025;Solução de IA (exclusiva ou em pacote);ia_a4;sim;
+38908606000172024;Solução de IA (exclusiva ou em pacote);ia_a4;sim;
+92676406902102024;Solução de IA (exclusiva ou em pacote);ia_a4;não;desenvolvimento de aplicativo sob encomenda com analise por IA (servico mais amplo)
+11470205900022024;Solução de IA (exclusiva ou em pacote);ia_a4;sim;
+38909205900092024;Solução de IA (exclusiva ou em pacote);ia_a4;sim;
+38925006900062024;Solução de IA (exclusiva ou em pacote);ia_a4;sim;
+08000107000682026;Solução de IA (exclusiva ou em pacote);ia_a4;sim;
+15842106000512022;Outros;ia_a3;sim;
+92540005924032025;Outros;ia_a3;sim;
+45444306000212025;Outros;ia_a3;sim;
+45016107011632026;Outros;ia_a3;sim;
+12064505900452025;Outros;ia_a3;sim;
+98542705900282025;Outros;ia_a3;sim;
+38942806000282025;Outros;ia_a3;sim;
+15813705903072025;Outros;ia_a3;sim;
+16045706001212022;Outros;ia_a3;sim;
+98191105900282024;Outros;ia_a3;sim;

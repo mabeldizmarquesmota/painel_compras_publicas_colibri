@@ -1,0 +1,101 @@
+Pacote de downloads do painel de compras públicas de tecnologias críticas para a soberania digital (Ipea).
+Gerado em 02/10/2026 por scripts_painel_v3/p1_02_painel.py (versão 3).
+Versão 4 (Ajuste 4: texto, ordem e layout): gerada em 02/10/2026 por scripts_painel_v4/p4_02_painel.py a partir da versão 3; METODOLOGIA_v4.md substitui METODOLOGIA_v3.md. Os scripts da versão 4 (63 a 68) não regravam nenhuma saída da versão 3.
+Versão 5 (Ajuste 5: revisão final de texto, ordem e layout e correções do gráfico 9): gerada em 04/10/2026 por scripts_painel_v5/p5_02_painel.py a partir da versão 4; METODOLOGIA_v5.md substitui METODOLOGIA_v4.md. Os scripts da versão 5 (69 a 74) não regravam nenhuma saída das versões anteriores.
+Versão 5.1: gerada em 04/10/2026 por scripts_painel_v5_1/p51_02_painel.py a partir da versão 5; METODOLOGIA_v5_1.md substitui METODOLOGIA_v5.md. Os scripts da versão 5.1 (75 a 80) não regravam nenhuma saída das versões anteriores. Nos textos, a revisão humana passou a ser identificada como revisão manual realizada pela pesquisadora responsável (Mabel Mota); nomes de arquivos, colunas e sementes (por exemplo, revisao_humana_ia.xlsx) foram mantidos. No painel, o tipo de objeto 'Nuvem/cloud broker' das tabelas aparece como 'Nuvem com serviços de IA', e o tipo 'Outros objetos' (só compras de capacitação), como 'Capacitação'.
+
+Pré-requisitos: DuckDB (CLI) e Python 3 com o módulo duckdb. Pasta de trabalho: Processado/, com os Parquet
+extraídos do Colibri em ../parquet/ (compras, itens, resultados). Os Parquet não fazem parte do pacote.
+Scripts .sql: duckdb scripts_parte0/p0.duckdb < <script>  (os da etapa 3 leem e gravam Parquet em Processado/).
+Scripts .py: python <script>.
+
+Ordem de execução:
+ 1. etapa2_agregacao.py  (Deduplicação de compras e regras automáticas de valor suspeito (etapa2_compras_auditadas.parquet).)
+ 2. etapa3_dedup_compras_extra.sql  (Deduplicação complementar de compras (colunas extras).)
+ 3. etapa3_dedup_itens.sql  (Deduplicação de itens (itens_dedup.parquet).)
+ 4. etapa3_dedup_resultados.sql  (Deduplicação de resultados (resultados_dedup.parquet).)
+ 5. etapa3_base_limpa.sql  (Base limpa de compras com regras de valor suspeito (base_limpa.parquet).)
+ 6. scripts_parte0/p0_01_totais_homologados.sql  (Recálculo do valor limpo a partir das flags e da revisão manual, e controles.)
+ 7. scripts_parte0/p0_14_duplicidades.sql  (Identificação de republicações.)
+ 8. scripts_parte0/p0_15_base_sem_duplicidades.sql  (Base de análise sem republicações (tabela bl).)
+ 9. scripts_parte0/p0_05_dicionario_v2.py  (Geração do dicionário final a partir do original.)
+10. scripts_parte0/p0_02_classificacao.sql  (Classificação de compras e itens nas seis categorias.)
+11. scripts_parte0/p0_16_duplicidades_resumo.sql  (Resumo das republicações por ano e nas seis categorias.)
+12. scripts_parte0/p0_03_fichas_validacao.sql  (Fichas da amostra 1 de validação.)
+13. scripts_parte0/p0_04_precisao.py  (Precisão da amostra 1.)
+14. scripts_parte0/p0_06_margem_colibri_listar.py  (Lista das tabelas de margem no Colibri (somente leitura).)
+15. scripts_parte0/p0_06b_margem_colibri_exportar.py  (Cópia das tabelas de margem e do tradutor CATMAT→NCM.)
+16. scripts_parte0/p0_07_soberania.sql  (Valores de soberania (três regras), robustez e país de origem.)
+17. scripts_parte0/p0_07b_controle_dicionario_original.py  (Controle com o dicionário original.)
+18. scripts_parte0/p0_08_margem_preferencia.sql  (Margem de preferência por NCM.)
+19. scripts_parte0/p0_09_amostra2.sql  (Amostra 2 de validação.)
+20. scripts_parte0/p0_10_amostra3.sql  (Amostra 3 de validação.)
+21. scripts_parte0/p0_11_amostra4.sql  (Amostra 4 de validação.)
+22. scripts_parte0/p0_12_consolidar_validacao.py  (Consolidação da precisão por categoria.)
+23. scripts_parte0/p0_17_fichas_remocao.sql  (Sorteio das compras removidas pelo ajuste do dicionário.)
+24. scripts_parte0/p0_18_remocao_indevida.py  (Julgamentos e taxa de remoção indevida.)
+25. scripts_parte0/p0_19_margem_decomposicao.sql  (Decomposição do valor com margem aplicada.)
+26. scripts_painel_v3/p1_00_dicionario_legivel.py  (Palavras-chave em linguagem comum, idênticas ao dicionário.)
+27. scripts_painel_v3/p1_01_dados_painel.sql  (Tabelas agregadas do painel.)
+28. fase2/scripts/f2_01_base_escopo.py  (Base das classificações de modelo de aquisição e tipo de vendedor (banco do painel aberto somente para leitura).)
+29. fase2/scripts/f2_02_diagnostico_campos.py  (Existência e preenchimento dos campos usados nas classificações.)
+30. fase2/scripts/f2_03_dicionario_modelo_v1.py  (Dicionário do modelo de aquisição, versão 1.)
+31. fase2/scripts/f2_04_classifica_modelo.py  (Classificação dos itens (argumentos: dicionário e rótulo; executado com v1, v2 e v3).)
+32. fase2/scripts/f2_05_amostra_modelo.py  (Amostras de verificação do modelo de aquisição (sementes f2_modelo_a1, a2 e a3).)
+33. fase2/validacao/julgamentos_modelo_f2_modelo_a1.py  (Julgamentos da amostra 1.)
+34. fase2/scripts/f2_03b_dicionario_modelo_v2.py  (Dicionário do modelo de aquisição, versão 2.)
+35. fase2/validacao/julgamentos_modelo_f2_modelo_a2.py  (Julgamentos da amostra 2.)
+36. fase2/scripts/f2_03c_dicionario_modelo_v3.py  (Dicionário do modelo de aquisição, versão 3 (final).)
+37. fase2/validacao/julgamentos_modelo_f2_modelo_a3.py  (Julgamentos da amostra 3.)
+38. fase2/scripts/f2_06_precisao_modelo.py  (Precisão por classe e situação final.)
+39. fase2/scripts/f2_07_modelo_valores.py  (Valor por modelo de aquisição e categoria.)
+40. fase2/scripts/f2_08_marcas_vendedores.py  (Marcas citadas, fabricantes, empresas públicas de TI e tipo de vendedor.)
+41. fase2/scripts/f2_09_amostra_marcas.py  (Amostra de verificação de marca e tipo de vendedor (semente f2_marca_a1).)
+42. fase2/validacao/julgamentos_marcas_f2_marca_a1.py  (Julgamentos da amostra de marcas.)
+43. fase2/scripts/f2_10_porte.py  (Compras e valor por porte do vencedor.)
+44. fase2/scripts/f2_11_achados.py  (Principais achados e números de origem.)
+45. fase2/scripts/f2_14_revisao_humana.py  (Planilha da revisão manual realizada pela pesquisadora responsável, Mabel Mota (120 casos).)
+46. fase2/scripts/f2_15_revisao_humana_resultado.py  (Resultado da revisão manual realizada pela pesquisadora responsável (Mabel Mota), concordância entre revisões e pendências do dicionário das categorias.)
+47. scripts_painel_v3/p1_06_ia_base.py  (Base, classes, tipos de objeto e resultados da aba de inteligência artificial (com a semente como argumento, gera as fichas de verificação: ia_a1 a ia_a4).)
+48. validacao_ia/julgamentos_ia_a1.py  (Julgamentos da amostra 1 das classes de IA.)
+49. validacao_ia/julgamentos_ia_a2.py  (Julgamentos da amostra 2 das classes de IA.)
+50. validacao_ia/julgamentos_ia_a3.py  (Julgamentos da amostra 3 das classes de IA.)
+51. validacao_ia/julgamentos_ia_a4.py  (Julgamentos da amostra 4 (classe somada Solução de IA).)
+52. scripts_painel_v3/p1_07_ia_validacao_marcas.py  (Precisão das classes de IA, marcas de IA citadas, planilha da revisão manual realizada pela pesquisadora responsável, Mabel Mota (gerada uma vez; depois da revisão, fica congelada e não é regravada) e reconciliação do Copilot.)
+53. validacao_ia/capacitacao_maiores_valores.py  (As 10 maiores compras da classe Capacitação, como linhas extras da planilha da revisão manual realizada pela pesquisadora responsável, Mabel Mota (lista congelada depois da revisão).)
+54. validacao_ia/resultado_revisao_humana_ia.py  (Resultado da revisão manual realizada pela pesquisadora responsável (Mabel Mota) na aba de IA e divergências com a verificação por amostragem.)
+55. scripts_painel_v3/p1_08_ia_achados.py  (Principais achados e nota da linha-resumo da aba de IA.)
+56. scripts_painel_v3/p1_01c_fase2_painel.py  (Tabelas agregadas do bloco de modelo de aquisição e tipo de vendedor e dos principais achados.)
+57. scripts_painel_v3/p1_01d_cadeias.py  (Base da tabela 1 (cadeias fornecedor, objeto e órgão comprador), com controle contra a base do gráfico 8.)
+58. scripts_painel_v3/p1_01b_fluxo_compras.py  (Compras de cada fluxo do gráfico 8, para a contagem de compras distintas da linha-resumo do Sankey (banco aberto somente para leitura).)
+59. scripts_painel_v3/p1_02_painel.py  (Painel HTML, metodologia e pacote de downloads.)
+60. scripts_painel_v3/p1_03_verificar_html.py  (Verificação do HTML em Chromium sem internet e capturas de tela.)
+61. scripts_painel_v3/p1_04_conferencia.py  (Conferência dos números do painel com as tabelas agregadas.)
+62. scripts_painel_v3/p1_05_relatorio_final.py  (Relatório final da entrega, com a conferência dos hashes das versões 1 e 2.)
+63. scripts_painel_v4/p4_00_hashes.py  (Conferência dos hashes registrados das versões congeladas 1, 2 e 3 (no início e no fim da versão 4).)
+64. scripts_painel_v4/p4_01_ia_achados.py  (Principais achados da aba de IA com o texto da versão 4 e a conta do achado 4 (fornecedores pelo CNPJ do vencedor).)
+65. scripts_painel_v4/p4_02_painel.py  (Painel HTML da versão 4 a partir do HTML da versão 3, metodologia e pacote de downloads.)
+66. scripts_painel_v4/p4_03_verificar_html.py  (Verificação do HTML em Chromium sem internet, em 1440 px e 390 px, e capturas de tela.)
+67. scripts_painel_v4/p4_04_conferencia.py  (Conferência dos números do painel com as tabelas agregadas.)
+68. scripts_painel_v4/p4_05_relatorio_final.py  (Relatório final, congelamento da versão 4 e conferência dos hashes.)
+69. scripts_painel_v5/p5_00_hashes.py  (Conferência dos hashes registrados das versões congeladas 1 a 4 (no início e no fim da versão 5).)
+70. scripts_painel_v5/p5_01_ia_achados.py  (Achados da aba de IA com o texto da versão 5, números de Nuvem com serviços de IA e reconciliação da classe Capacitação.)
+71. scripts_painel_v5/p5_02_painel.py  (Painel HTML da versão 5 a partir do HTML da versão 4, metodologia e pacote de downloads.)
+72. scripts_painel_v5/p5_03_verificar_html.py  (Verificação do HTML em Chromium sem internet, em 1440 px e 390 px, interação do gráfico 9 e capturas de tela.)
+73. scripts_painel_v5/p5_04_conferencia.py  (Conferência dos números do painel com as tabelas agregadas.)
+74. scripts_painel_v5/p5_05_relatorio_final.py  (Relatório final, congelamento da versão 5 e conferência dos hashes.)
+75. scripts_painel_v5_1/p51_00_hashes.py  (Conferência dos hashes registrados das versões congeladas 1 a 5 (no início e no fim da versão 5.1).)
+76. scripts_painel_v5_1/p51_01_reconciliacao_ia.py  (Reconciliação entre a categoria Inteligência artificial do gráfico 8 e a tecnologia de IA do gráfico 9.)
+77. scripts_painel_v5_1/p51_02_painel.py  (Painel HTML da versão 5.1 a partir do HTML da versão 5, metodologia, pacote e lista das ocorrências da revisão manual.)
+78. scripts_painel_v5_1/p51_03_verificar_html.py  (Verificação do HTML em Chromium sem internet, em 1440 px e 390 px, gráfico 9 comparado com o gráfico 8 e capturas.)
+79. scripts_painel_v5_1/p51_04_conferencia.py  (Conferência dos números do painel com as tabelas agregadas.)
+80. scripts_painel_v5_1/p51_05_relatorio_final.py  (Relatório final, congelamento da versão 5.1 e conferência dos hashes.)
+
+Os scripts que geram apenas relatórios internos de verificação não fazem parte do pacote; nenhum número do painel depende deles.
+p0_17 é executado com o rótulo do sorteio: sed 's/__ROTULO__/remocao1/g' scripts_parte0/p0_17_fichas_remocao.sql | duckdb scripts_parte0/p0.duckdb
+p0_18 recebe o mesmo rótulo: python scripts_parte0/p0_18_remocao_indevida.py remocao1
+
+Tabelas novas da versão 4: ia_achados_v4.csv, ia_achados_numeros_v4.csv, ia_achado4_fornecedores.csv e ia_achado4_raizes_com_mais_de_um_cnpj.csv (p4_01).
+Tabelas novas da versão 5: ia_achados_v5.csv, ia_achados_numeros_v5.csv, ia_nuvem_servicos_ia.csv e ia_capacitacao_reconciliacao.csv (p5_01).
+Tabelas novas da versão 5.1: ia_reconciliacao_grafico8_grafico9.csv (p51_01) e revisao_manual_ocorrencias.csv (p51_02).
+Tabelas agregadas (pasta tabelas_agregadas/): separador ';', ponto decimal. Cada CSV é descrito no cabeçalho do script que o gera.

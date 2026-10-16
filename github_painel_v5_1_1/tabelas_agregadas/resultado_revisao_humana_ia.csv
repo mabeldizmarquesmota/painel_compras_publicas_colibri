@@ -1,0 +1,7 @@
+classe;casos_revisados;certo;errado;concordancia_pct;validada;concordancia_entre_revisoes;concordancia_entre_revisoes_pct;valor_revisado;valor_em_compras_erradas;pct_do_valor_em_compras_erradas
+Capacitação;10;9;1;90.0;sim;8;80.0
+Acréscimo à licença;10;10;0;100.0;sim;10;100.0
+Solução de IA (exclusiva ou em pacote);20;19;1;95.0;sim;18;90.0
+Outros;10;9;1;90.0;sim;9;90.0
+Total;50;47;3;94.0;;45;90.0
+Capacitação: verificação por valor (10 maiores compras);10;5;5;50.0;não se aplica;;;36063036.26;26098552.66;72.4

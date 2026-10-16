@@ -1,0 +1,143 @@
+segmento,camada,tipo,termo_regex
+data_center,infraestrutura_fisica,inclusao,data ?center
+data_center,infraestrutura_fisica,inclusao,centro de dados
+data_center,infraestrutura_fisica,inclusao,sala[- ]cofre
+data_center,infraestrutura_fisica,inclusao,colocation
+data_center,infraestrutura_fisica,inclusao,\bstorage\b
+data_center,infraestrutura_fisica,inclusao,hiperconvergen
+data_center,infraestrutura_fisica,inclusao,supercomputad
+data_center,infraestrutura_fisica,inclusao,\bhpc\b
+data_center,infraestrutura_fisica,inclusao,servidor(es)? (de rede|rack|blade)
+data_center,infraestrutura_fisica,exclusao,servidor(es)? public
+data_center,infraestrutura_fisica,exclusao,servidor(es)? efetiv
+nuvem,nuvem,inclusao,computacao em nuvem
+nuvem,nuvem,inclusao,servicos? de nuvem
+nuvem,nuvem,inclusao,nuvem (publica|privada|hibrida|de governo)
+nuvem,nuvem,inclusao,\bcloud\b
+nuvem,nuvem,inclusao,\biaas\b
+nuvem,nuvem,inclusao,\bpaas\b
+nuvem,nuvem,inclusao,\bsaas\b
+nuvem,nuvem,inclusao,multinuvem
+nuvem,nuvem,inclusao,multicloud
+nuvem,nuvem,inclusao,broker de nuvem
+nuvem,nuvem,inclusao,amazon web services
+nuvem,nuvem,inclusao,\baws\b
+nuvem,nuvem,inclusao,\bazure\b
+nuvem,nuvem,inclusao,google cloud
+nuvem,nuvem,inclusao,\bgcp\b
+nuvem,nuvem,inclusao,oracle cloud
+nuvem,nuvem,inclusao,huawei cloud
+plataformas,software_plataforma,inclusao,microsoft 365
+plataformas,software_plataforma,inclusao,office 365
+plataformas,software_plataforma,inclusao,\bm365\b
+plataformas,software_plataforma,inclusao,windows server
+plataformas,software_plataforma,inclusao,sistema operacional
+plataformas,software_plataforma,inclusao,\bvmware\b
+plataformas,software_plataforma,inclusao,virtualizacao
+plataformas,software_plataforma,inclusao,red hat
+plataformas,software_plataforma,inclusao,\bsap\b
+plataformas,software_plataforma,inclusao,oracle database
+plataformas,software_plataforma,inclusao,sql server
+plataformas,software_plataforma,inclusao,subscricao
+plataformas,software_plataforma,inclusao,licenc(a|as|iamento) de (uso de )?software
+plataformas,software_plataforma,exclusao,licenca (ambiental|premio|maternidade|paternidade)
+ia,ia,inclusao,inteligencia artificial
+ia,ia,inclusao,aprendizado de maquina
+ia,ia,inclusao,machine learning
+ia,ia,inclusao,deep learning
+ia,ia,inclusao,ia generativa
+ia,ia,inclusao,\bllm\b
+ia,ia,inclusao,modelos? de linguagem
+ia,ia,inclusao,chatbot
+ia,ia,inclusao,assistente virtual
+ia,ia,inclusao,visao computacional
+ia,ia,inclusao,reconhecimento facial
+ia,ia,inclusao,processamento de linguagem natural
+ia,ia,inclusao,(solucao|plataforma|ferramenta|sistema|modelo) (de|com|baseada em) \bia\b
+identidade,aplicacoes_governo,inclusao,identidade digital
+identidade,aplicacoes_governo,inclusao,biometri
+identidade,aplicacoes_governo,inclusao,assinatura (eletronica|digital)
+identidade,aplicacoes_governo,inclusao,certificados? digita
+identidade,aplicacoes_governo,inclusao,identificacao civil
+seguranca,transversal,inclusao,"(solucao|solucoes|servicos?|software|equipamentos?|itens|auditoria|pericia|consultoria|gestao|analise|monitoramento|licenc\w*|produtos?|plataformas?|ferramentas?|sistemas?|appliances?|suporte)( \w+){0,3} (de|em|para|a) seguranca da informacao"
+seguranca,transversal,inclusao,seguranca cibernetica
+seguranca,transversal,inclusao,ciberseguranca
+seguranca,transversal,inclusao,firewall
+seguranca,transversal,inclusao,centro de operacoes de seguranca
+seguranca,transversal,inclusao,\bedr\b
+seguranca,transversal,inclusao,\bxdr\b
+seguranca,transversal,inclusao,\bsiem\b
+seguranca,transversal,inclusao,antivirus
+seguranca,transversal,inclusao,criptografia
+seguranca,transversal,inclusao,protecao de endpoint
+seguranca,transversal,inclusao,teste de intrusao
+seguranca,transversal,inclusao,pentest
+seguranca,transversal,inclusao,(solucao|solucoes|software|sistemas?|subsistemas?|servicos?|appliances?|licenc\w*|subscric\w*|suporte|fitas?|cartuch\w*|midias?|robos?|bibliotecas?|repositorios?|armazenamento|plano|politica|rotinas?|processos?|gerenciamento|gestao|infraestrutura|infra|plataformas?|agentes?|gravador(es)?)( \w+)? (de |para |do |da )?backup
+seguranca,transversal,exclusao,seguranca (patrimonial|privada|do trabalho)
+seguranca,transversal,exclusao,vigilancia (patrimonial|armada|desarmada)
+seguranca,transversal,inclusao,backup (em nuvem|as a service|como servico|de dados|corporativo)
+seguranca,transversal,inclusao,backup ?(&|e) ?(recovery|restore|recuperacao)
+seguranca,transversal,inclusao,\blto[- ]?\d
+seguranca,transversal,inclusao,seguranca da informacao e cibernetica
+ia,ia,exclusao,"(\b(cursos?|capacitac(ao|oes) (de|dos|das|para) (servidor|militar|magistrad|membro|agente|vereador|funcionari|colaborador|gestor|equipe|profissiona)\w*|capacitac(ao|oes) (em|sobre|profissional)|seminarios?|congressos?|simposios?|palestras?|workshops?|masterclass|webinars?|conferencias?|summit|pos[- ]graduacao|mba|inscric(ao|oes)|instrutor(es)?|lanches?|patrocinio|horas?[- ]aula|atividades didaticas)\b|\b(no|na|ao|do|da) (treinamento|evento)\b)[^;]{0,200}(inteligencia artificial|aprendizado de maquina|machine learning|deep learning|ia generativa|\bllm\b|modelos? de linguagem|chatbot|assistente virtual|visao computacional|reconhecimento facial|processamento de linguagem natural|(solucao|plataforma|ferramenta|sistema|modelo) (de|com|baseada em) \bia\b)"
+ia,ia,exclusao,"\b(publicacao|artigos?)\b[^;]{0,250}(inteligencia artificial|aprendizado de maquina|machine learning|deep learning|ia generativa|\bllm\b|modelos? de linguagem|chatbot|assistente virtual|visao computacional|reconhecimento facial|processamento de linguagem natural|(solucao|plataforma|ferramenta|sistema|modelo) (de|com|baseada em) \bia\b)"
+ia,ia,exclusao,"secretaria[^.;]{0,60}inteligencia artificial"
+ia,ia,exclusao,\b(cursos?|seminarios?|congressos?|simposios?|palestra(s|nte)?|workshops?|masterclass|webinars?|conferencias?|summit|pos[- ]graduacao|mba|instrutor(es)?|lanches?|patrocinio|horas?[- ]aula|atividades didaticas|turma|oficinas?|encontro|evento (externo|presencial|online|on-line)|(no|do|ao) evento|eventos? de capacitacao|projeto de (pesquisa|extensao)|experiencias artisticas|(treinamento|capacitacao) e aperfeicoamento)\b
+ia,ia,exclusao,fundac(ao|oes) de apoio|gestao administrativ[ao] e financeira|apoio administrativo|termo de fomento|\b(funape|fundep|finatec|funtef|fapunifesp)\b
+ia,ia,exclusao,\b(smartphones?|celular(es)?|notebooks?|ultrabooks?|smart ?tvs?|televisor(es)?|tv \d\d)\b
+ia,ia,exclusao,creative cloud|banco de imagens|\bmatlab\b|\blivros?\b
+ia,ia,exclusao,^\W*((contratacao|aquisicao|prestacao) (de|da|do|dos|das) |pagamento (de |da )?(taxa (de )?)?)?(empresa( especializada)?( em| para| para ministrar)? |servicos? (de )?|vagas? (no |em |para )?|uma? |os? |as? )?(capacitac\w*|treinamentos?|cursos?|inscric\w*|participac\w*)\b
+ia,ia,exclusao,^\W*eventos?\b|vagas? (em|para) (o |a )?(evento|realizacao)|\beventos? (tele)?presencia\w*|realizacao presencial|acao educacional|\bpa?lestras?\b|estrutura para realizacao
+ia,ia,exclusao,"(contratacao|aquisicao) (de|da|do) (capacitac\w*|cursos?)\b|\b(na|a|da) capacitac\w* [\""“]|participac\w*[^;]{0,120}\b(capacitac\w*|cursos?|eventos?|treinamentos?|seminarios?|congressos?)\b|capacitac\w* (aos|as) |treinamento (presencial|de inteligencia)|treinamento ?[:\""“]"
+ia,ia,exclusao,\b(dfd|etp)\b|planilhas orcamentarias|\bsinapi\b
+ia,ia,exclusao,"fundac(ao|oes)( \w+){0,4} para apoiar|administrativo-financeira"
+ia,ia,exclusao,banco de precos|\bcapcut\b
+nuvem,nuvem,exclusao,"(\b(cursos?|capacitac(ao|oes) (de|dos|das|para) (servidor|militar|magistrad|membro|agente|vereador|funcionari|colaborador|gestor|equipe|profissiona)\w*|capacitac(ao|oes) (em|sobre|profissional)|seminarios?|congressos?|simposios?|palestras?|workshops?|masterclass|webinars?|conferencias?|summit|pos[- ]graduacao|mba|inscric(ao|oes)|instrutor(es)?|lanches?|patrocinio|horas?[- ]aula|atividades didaticas)\b|\b(no|na|ao|do|da) (treinamento|evento)\b)[^;]{0,200}(computacao em nuvem|servicos? de nuvem|nuvem (publica|privada|hibrida|de governo)|\bcloud\b|\biaas\b|\bpaas\b|\bsaas\b|multinuvem|multicloud|broker de nuvem|amazon web services|\baws\b|\bazure\b|google cloud|\bgcp\b|oracle cloud|huawei cloud)"
+nuvem,nuvem,exclusao,"\b(publicacao|artigos?)\b[^;]{0,250}(computacao em nuvem|servicos? de nuvem|nuvem (publica|privada|hibrida|de governo)|\bcloud\b|\biaas\b|\bpaas\b|\bsaas\b|multinuvem|multicloud|broker de nuvem|amazon web services|\baws\b|\bazure\b|google cloud|\bgcp\b|oracle cloud|huawei cloud)"
+nuvem,nuvem,exclusao,\bsolda|eletrodo|soldagem|\bvareta
+nuvem,nuvem,exclusao,creative cloud
+nuvem,nuvem,exclusao,endpoint security cloud
+plataformas,software_plataforma,exclusao,"(\b(cursos?|capacitac(ao|oes) (de|dos|das|para) (servidor|militar|magistrad|membro|agente|vereador|funcionari|colaborador|gestor|equipe|profissiona)\w*|capacitac(ao|oes) (em|sobre|profissional)|seminarios?|congressos?|simposios?|palestras?|workshops?|masterclass|webinars?|conferencias?|summit|pos[- ]graduacao|mba|inscric(ao|oes)|instrutor(es)?|lanches?|patrocinio|horas?[- ]aula|atividades didaticas)\b|\b(no|na|ao|do|da) (treinamento|evento)\b)[^;]{0,200}(microsoft 365|office 365|\bm365\b|windows server|sistema operacional|\bvmware\b|virtualizacao|red hat|\bsap\b|oracle database|sql server|subscricao|licenc(a|as|iamento) de (uso de )?software)"
+plataformas,software_plataforma,exclusao,"\b(publicacao|artigos?)\b[^;]{0,250}(microsoft 365|office 365|\bm365\b|windows server|sistema operacional|\bvmware\b|virtualizacao|red hat|\bsap\b|oracle database|sql server|subscricao|licenc(a|as|iamento) de (uso de )?software)"
+plataformas,software_plataforma,exclusao,"\b(micro ?computador(es)?|notebooks?|tablets?|smartphones?|celular(es)?|all[- ]in[- ]one|workstations?|roteador(es)?|teclados?|servidor,? tipo|identificador biometrico|sonorizacao)\b"
+plataformas,software_plataforma,exclusao,caracteristicas adicionais:? ?sistema operacional
+plataformas,software_plataforma,exclusao,"resolucao sap|\bsap[- ]?\d{1,4}/|kit pres[oa]s?|uniformes? para sap"
+data_center,infraestrutura_fisica,exclusao,"(\b(cursos?|capacitac(ao|oes) (de|dos|das|para) (servidor|militar|magistrad|membro|agente|vereador|funcionari|colaborador|gestor|equipe|profissiona)\w*|capacitac(ao|oes) (em|sobre|profissional)|seminarios?|congressos?|simposios?|palestras?|workshops?|masterclass|webinars?|conferencias?|summit|pos[- ]graduacao|mba|inscric(ao|oes)|instrutor(es)?|lanches?|patrocinio|horas?[- ]aula|atividades didaticas)\b|\b(no|na|ao|do|da) (treinamento|evento)\b)[^;]{0,200}(data ?center|centro de dados|sala[- ]cofre|colocation|\bstorage\b|hiperconvergen|supercomputad|\bhpc\b|servidor(es)? (de rede|rack|blade))"
+data_center,infraestrutura_fisica,exclusao,"\b(publicacao|artigos?)\b[^;]{0,250}(data ?center|centro de dados|sala[- ]cofre|colocation|\bstorage\b|hiperconvergen|supercomputad|\bhpc\b|servidor(es)? (de rede|rack|blade))"
+data_center,infraestrutura_fisica,exclusao,aplicacao:? ?(servidor (de rede|storage)|storage|conectar fonte ao equipamento storage)
+data_center,infraestrutura_fisica,exclusao,caracteristicas ?adicionais:? ?storage nas
+data_center,infraestrutura_fisica,exclusao,compatibilidade:? ?storage
+data_center,infraestrutura_fisica,exclusao,(windows server|jira( software)?|cis suite|suite) data ?centers?
+data_center,infraestrutura_fisica,exclusao,for virtual datacenters
+data_center,infraestrutura_fisica,exclusao,self[- ]storage
+data_center,infraestrutura_fisica,exclusao,sala cofre / sala tele
+data_center,infraestrutura_fisica,exclusao,\bansys\b
+data_center,infraestrutura_fisica,exclusao,"(licenc\w*|locacao de software|sistemas? (integrad\w* )?(de )?gestao|solucao integrada|aplicacao web|modulo)[^;]{0,300}hospedagem"
+data_center,infraestrutura_fisica,exclusao,"(virtualizacao|vmware|veeam|red hat|sistemas? operaciona\w*|netbackup|backup|firewall|antivirus)[^;]{0,200}(data ?centers?|servidor(es)? de rede)"
+data_center,infraestrutura_fisica,exclusao,\bdvr\b
+data_center,infraestrutura_fisica,exclusao,(windows server|server)( \d{4})?( edicao)? data ?center|data ?center \d-core|datacenter core
+data_center,infraestrutura_fisica,exclusao,"(sistemas? (de gestao|integrad\w*)|softwares? de gestao|licenc\w* de (uso|direito|software)|licenciamento (de|temporario de) softwares?|solucao integrada|solucoes integradas|aplicac(ao|oes) web|modulos?)[^;]{0,250}(hospedad\w*|provimento de data ?center|data ?centers?)"
+data_center,infraestrutura_fisica,exclusao,\blinks? (de )?(internet|comunicac\w*|dedicad\w*|de acesso)|sd-wan|\bpostes\b|central telefonica|rede privada|energia eletrica - fornecimento|fornecimento de energia eletrica para
+data_center,infraestrutura_fisica,exclusao,armazenamento (de arquivos )?em nuvem|servidor(es)? em nuvem|cloud storage|google cloud
+data_center,infraestrutura_fisica,exclusao,\bwaf\b|aplicacoes web/api|endpoints?
+data_center,infraestrutura_fisica,exclusao,helice de passo|passo controlado|\bnavio|embarcac
+data_center,infraestrutura_fisica,exclusao,\btoken\b|midia criptografica|\bfrasco|storage tube|energy storage
+data_center,infraestrutura_fisica,exclusao,^\W*((contratacao|aquisicao|prestacao) (de|da|do|dos|das) |pagamento (de |da )?(taxa (de )?)?)?(empresa( especializada)?( em| para| para ministrar)? |servicos? (de )?|vagas? (no |em |para )?|uma? |os? |as? )?(capacitac\w*|treinamentos?|cursos?|inscric\w*|participac\w*)\b
+seguranca,transversal,exclusao,"(\b(cursos?|capacitac(ao|oes) (de|dos|das|para) (servidor|militar|magistrad|membro|agente|vereador|funcionari|colaborador|gestor|equipe|profissiona)\w*|capacitac(ao|oes) (em|sobre|profissional)|seminarios?|congressos?|simposios?|palestras?|workshops?|masterclass|webinars?|conferencias?|summit|pos[- ]graduacao|mba|inscric(ao|oes)|instrutor(es)?|lanches?|patrocinio|horas?[- ]aula|atividades didaticas)\b|\b(no|na|ao|do|da) (treinamento|evento)\b)[^;]{0,200}((solucao|solucoes|servicos?|software|equipamentos?|itens|auditoria|pericia|consultoria|gestao|analise|monitoramento|licenc\w*|produtos?|plataformas?|ferramentas?|sistemas?|appliances?|suporte)( \w+){0,3} (de|em|para|a) seguranca da informacao|seguranca cibernetica|ciberseguranca|firewall|centro de operacoes de seguranca|\bedr\b|\bxdr\b|\bsiem\b|antivirus|criptografia|protecao de endpoint|teste de intrusao|pentest|(solucao|solucoes|software|sistemas?|subsistemas?|servicos?|appliances?|licenc\w*|subscric\w*|suporte|fitas?|cartuch\w*|midias?|robos?|bibliotecas?|repositorios?|armazenamento|plano|politica|rotinas?|processos?|gerenciamento|gestao|infraestrutura|infra|plataformas?|agentes?|gravador(es)?)( \w+)? (de |para |do |da )?backup|backup (em nuvem|as a service|como servico|de dados|corporativo)|backup ?(&|e) ?(recovery|restore|recuperacao)|\blto[- ]?\d|seguranca da informacao e cibernetica)"
+seguranca,transversal,exclusao,"\b(publicacao|artigos?)\b[^;]{0,250}((solucao|solucoes|servicos?|software|equipamentos?|itens|auditoria|pericia|consultoria|gestao|analise|monitoramento|licenc\w*|produtos?|plataformas?|ferramentas?|sistemas?|appliances?|suporte)( \w+){0,3} (de|em|para|a) seguranca da informacao|seguranca cibernetica|ciberseguranca|firewall|centro de operacoes de seguranca|\bedr\b|\bxdr\b|\bsiem\b|antivirus|criptografia|protecao de endpoint|teste de intrusao|pentest|(solucao|solucoes|software|sistemas?|subsistemas?|servicos?|appliances?|licenc\w*|subscric\w*|suporte|fitas?|cartuch\w*|midias?|robos?|bibliotecas?|repositorios?|armazenamento|plano|politica|rotinas?|processos?|gerenciamento|gestao|infraestrutura|infra|plataformas?|agentes?|gravador(es)?)( \w+)? (de |para |do |da )?backup|backup (em nuvem|as a service|como servico|de dados|corporativo)|backup ?(&|e) ?(recovery|restore|recuperacao)|\blto[- ]?\d|seguranca da informacao e cibernetica)"
+seguranca,transversal,exclusao,"criptografia wep|wep, wp|bluetooth[^.;]{0,20}edr|\+ ?edr\b"
+seguranca,transversal,exclusao,firewall integrado|recurso seguranca:? ?f
+seguranca,transversal,exclusao,client server suite
+seguranca,transversal,exclusao,pre-?amplificador|mixer
+seguranca,transversal,exclusao,certificad\w* digita|\be-?cpf\b|\be-?cnpj\b
+seguranca,transversal,exclusao,oxigenio|ar comprimido|hemodialise|hemocultura|criogenic
+seguranca,transversal,exclusao,\b(notebooks?|micro ?computador(es)?|all[- ]in[- ]one)\b
+seguranca,transversal,exclusao,criptografias? (wpa|wep|por aes|aes|de \d|\d)|protocolo enlace:? ?criptografia|criptografia \d{3}
+seguranca,transversal,exclusao,retina xdr|\b(smartphones?|celular(es)?|roteador(es)?|modem|mikrotik|receptor|helicoptero)\b
+seguranca,transversal,exclusao,radio ?comunicac|cameras? instaladas|leitor(a)? (biometrico|cartao)|cartao proximidade
+seguranca,transversal,exclusao,"aplicacao:? ?firewall, capacidade ?memoria|memoria ram"
+seguranca,transversal,exclusao,\blinks? (de )?(backup|internet|dedicad\w*|de acesso)|backup (de|do) (acesso|link)|backup e redundancia
+seguranca,transversal,exclusao,equipamentos? de backup|cilindros? backup|unidade completa de backup
+seguranca,transversal,exclusao,hospedagem (vps|de e-?mails?)|servidor(es)? em nuvem|certificado ssl|\bssl dv\b
+seguranca,transversal,exclusao,\bciosp\b|seguranca publica|reagentes?
+seguranca,transversal,exclusao,^\W*((contratacao|aquisicao|prestacao) (de|da|do|dos|das) |pagamento (de |da )?(taxa (de )?)?)?(empresa( especializada)?( em| para| para ministrar)? |servicos? (de )?|vagas? (no |em |para )?|uma? |os? |as? )?(capacitac\w*|treinamentos?|cursos?|inscric\w*|participac\w*)\b

@@ -1,0 +1,61 @@
+categoria;marca;compras;resultados;valor_homologado_resultados
+data_center;Microsoft;44;110;184353678.80940002
+data_center;Oracle;16;30;173483267.05
+data_center;Cisco;17;109;97218889.37
+data_center;VMware/Broadcom;17;33;93011002.08000001
+data_center;Red Hat;11;45;38898680.36
+data_center;Huawei;18;26;8807234.7
+data_center;IBM;21;38;5404257.24
+data_center;Google;1;1;4209000.0
+ia;Microsoft;18;87;185503058.67000002
+ia;Google;17;20;17818966.340800002
+ia;IBM;1;1;888000.0
+ia;Red Hat;3;4;358295.82
+ia;Amazon/AWS;1;1;162086.4
+ia;Adobe;1;1;44116.28
+identidade;Adobe;7;10;1370924.1099999999
+identidade;Microsoft;23;33;991833.7072
+identidade;Red Hat;2;3;309894.69999999995
+identidade;Google;9;12;82554.76
+identidade;Oracle;1;1;2200.0
+nuvem;Microsoft;301;795;1589565089.6703985
+nuvem;Google;156;221;799787076.4141998
+nuvem;Oracle;44;105;602633805.2299999
+nuvem;VMware/Broadcom;22;50;484330512.15
+nuvem;Huawei;4;6;431495329.2
+nuvem;Amazon/AWS;37;54;165772224.89
+nuvem;Red Hat;8;31;153546078.53
+nuvem;IBM;9;16;83371275.29
+nuvem;Adobe;57;82;50504934.9475
+nuvem;Salesforce;5;7;23178804.1781
+nuvem;Fortinet;9;12;4595498.859999999
+nuvem;Check Point;3;6;3923927.92
+nuvem;Cisco;7;7;1281197.3199999998
+plataformas;Microsoft;964;2642;3602257989.779207
+plataformas;VMware/Broadcom;111;242;965997997.4419999
+plataformas;Red Hat;93;260;901397323.5651
+plataformas;Salesforce;11;37;224798969.2835
+plataformas;Oracle;98;186;124419252.0756001
+plataformas;Google;55;89;123655975.1277
+plataformas;Adobe;304;508;102206910.23999996
+plataformas;IBM;17;25;91966257.73570001
+plataformas;Fortinet;23;50;44270076.440000005
+plataformas;SAP;9;17;34900539.76
+plataformas;Check Point;10;47;28656369.080000002
+plataformas;Palo Alto;11;51;19792016.09
+plataformas;Cisco;19;52;16105277.81
+plataformas;Amazon/AWS;6;7;12613560.02
+plataformas;Huawei;2;5;1339456.88
+seguranca;Check Point;27;111;173887439.82000005
+seguranca;VMware/Broadcom;18;33;146818231.85
+seguranca;Fortinet;100;262;129195291.70000002
+seguranca;Palo Alto;25;112;103929721.57
+seguranca;Microsoft;71;157;94385346.62490001
+seguranca;Cisco;13;21;20722351.34
+seguranca;Huawei;2;3;9744000.0
+seguranca;IBM;19;40;4629603.294900001
+seguranca;Oracle;12;15;3626138.0892000003
+seguranca;Google;11;13;1881141.6400000001
+seguranca;Amazon/AWS;4;4;1840382.4
+seguranca;Adobe;4;5;1657235.12
+seguranca;Red Hat;1;1;1272000.0

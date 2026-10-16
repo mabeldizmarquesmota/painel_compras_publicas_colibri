@@ -1,0 +1,8 @@
+ordem;classe;precisao_final_pct;rodada_final;situacao;motivo
+1;Acréscimo a licença existente;84.0;a1;aprovada;
+2;Subscrição ou serviço;93.0;a2;aprovada;
+3;Licenciamento de direitos permanentes de uso;86.0;a3;aprovada;
+4;Suporte e manutenção de licença;;;fora do painel;"Abaixo de 80% na amostra 1 (26%) e na amostra 2 (45%); após o segundo ajuste a classe ficou com 47 itens, todos já julgados nas amostras usadas para o ajuste, sem amostra independente possível."
+5;Desenvolvimento e serviços técnicos;84.0;a2;aprovada;
+6;Equipamentos e infraestrutura física;95.0;a2;aprovada;
+7;Não identificado;82.0;a3;aprovada;

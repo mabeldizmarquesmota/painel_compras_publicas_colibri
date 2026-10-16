@@ -1,0 +1,594 @@
+ficha;id_compra_item;ordem;classe;pertinente;motivo
+0;9895710690232202400001;2;Subscrição ou serviço;sim;
+1;7420000790002202300008;2;Subscrição ou serviço;sim;
+2;3893350690002202400002;2;Subscrição ou serviço;sim;
+3;1132040690018202400002;2;Subscrição ou serviço;sim;
+4;9306180590022202500008;2;Subscrição ou serviço;sim;
+5;9257430590019202500003;2;Subscrição ou serviço;sim;
+6;0700100500054202300001;2;Subscrição ou serviço;sim;
+7;1530310590147202400004;2;Subscrição ou serviço;não;objeto e digitalizacao de documentos
+8;2401210600362202300001;2;Subscrição ou serviço;sim;
+9;9809210690004202500001;2;Subscrição ou serviço;sim;
+10;1132110600056202600001;2;Subscrição ou serviço;sim;
+11;9250070590031202500006;2;Subscrição ou serviço;sim;
+12;3894520600003202200002;2;Subscrição ou serviço;não;versao de uso permanente do produto
+13;9251580590002202600001;2;Subscrição ou serviço;sim;
+14;1581370600285202500002;2;Subscrição ou serviço;sim;
+15;1584100700030202500001;2;Subscrição ou serviço;sim;
+16;9295810590010202500001;2;Subscrição ou serviço;sim;
+17;9260400590003202500005;2;Subscrição ou serviço;sim;
+18;0900170700040202500182;2;Subscrição ou serviço;sim;
+19;9251540500114202300001;2;Subscrição ou serviço;sim;
+20;9312540600017202500001;2;Subscrição ou serviço;sim;
+21;9740020590035202400001;2;Subscrição ou serviço;sim;
+22;9261960690002202300001;2;Subscrição ou serviço;sim;
+23;9266450600033202500001;2;Subscrição ou serviço;sim;
+24;2001000590005202600018;2;Subscrição ou serviço;sim;
+25;9258990700006202600006;2;Subscrição ou serviço;sim;
+26;9260400590003202500010;2;Subscrição ou serviço;sim;
+27;1532540700080202300001;2;Subscrição ou serviço;sim;
+28;0803140600010202400002;2;Subscrição ou serviço;sim;
+29;9854750600002202400001;2;Subscrição ou serviço;sim;
+30;1602280700013202400001;2;Subscrição ou serviço;sim;
+31;9251750590015202400002;2;Subscrição ou serviço;sim;
+32;9259420590032202500003;2;Subscrição ou serviço;sim;
+33;0800140600026202400003;2;Subscrição ou serviço;sim;
+34;3894250600004202600001;2;Subscrição ou serviço;sim;
+35;9258660690021202400001;2;Subscrição ou serviço;sim;
+36;0700090590022202400001;2;Subscrição ou serviço;sim;
+37;9294910590024202500001;2;Subscrição ou serviço;sim;
+38;8100050700009202400005;2;Subscrição ou serviço;sim;
+39;1581260500021202300021;2;Subscrição ou serviço;sim;
+40;9259680500048202300003;2;Subscrição ou serviço;sim;
+41;9254250700185202400001;2;Subscrição ou serviço;não;licenciamento de direitos permanentes
+42;0200010500024202300001;2;Subscrição ou serviço;sim;
+43;9876910600178202300006;2;Subscrição ou serviço;sim;
+44;1581290600023202400002;2;Subscrição ou serviço;sim;
+45;0901590600156202500002;2;Subscrição ou serviço;sim;
+46;0800180590003202400009;2;Subscrição ou serviço;sim;
+47;7400140590001202500001;2;Subscrição ou serviço;sim;
+48;9292380690004202400003;2;Subscrição ou serviço;sim;
+49;9860010692431202400002;2;Subscrição ou serviço;sim;
+50;1021360590005202400004;2;Subscrição ou serviço;sim;
+51;1790830690068202400003;2;Subscrição ou serviço;sim;
+52;9279500590016202500001;2;Subscrição ou serviço;sim;
+53;1540390600301202300001;2;Subscrição ou serviço;sim;
+54;9254000700011202300001;2;Subscrição ou serviço;sim;
+55;8100050700009202400002;2;Subscrição ou serviço;sim;
+56;0200010500106202300002;2;Subscrição ou serviço;não;suporte e atualizacao (classe 4)
+57;0800090590017202600002;2;Subscrição ou serviço;sim;
+58;4576970590002202400001;2;Subscrição ou serviço;sim;
+59;3440420590012202400004;2;Subscrição ou serviço;sim;
+60;3930010590015202500010;2;Subscrição ou serviço;sim;
+61;9277290690004202400002;2;Subscrição ou serviço;sim;
+62;1021200600001202400001;2;Subscrição ou serviço;não;servico de recuperacao de dados
+63;9877330590023202500037;2;Subscrição ou serviço;sim;
+64;9264700600026202300001;2;Subscrição ou serviço;sim;
+65;1605470600003202200001;2;Subscrição ou serviço;sim;
+66;1601220690009202400001;2;Subscrição ou serviço;sim;
+67;1584690700158202500001;2;Subscrição ou serviço;sim;
+68;3894540600053202500001;2;Subscrição ou serviço;sim;
+69;1550070690001202500003;2;Subscrição ou serviço;sim;
+70;9874270500065202300005;2;Subscrição ou serviço;sim;
+71;8060300590756202400001;2;Subscrição ou serviço;sim;
+72;3801850600004202400001;2;Subscrição ou serviço;sim;
+73;9858010600075202600001;2;Subscrição ou serviço;sim;
+74;9271970600022202300001;2;Subscrição ou serviço;sim;
+75;9257930600015202400001;2;Subscrição ou serviço;sim;
+76;9275490600024202500001;2;Subscrição ou serviço;sim;
+77;4511640590009202500003;2;Subscrição ou serviço;sim;
+78;1600330600034202200001;2;Subscrição ou serviço;sim;
+79;1200160690014202500003;2;Subscrição ou serviço;sim;
+80;1803520600121202500001;2;Subscrição ou serviço;sim;
+81;9268410590037202500005;2;Subscrição ou serviço;sim;
+82;9263280590013202400001;2;Subscrição ou serviço;sim;
+83;4505730600004202500001;2;Subscrição ou serviço;sim;
+84;4032010690131202400002;2;Subscrição ou serviço;sim;
+85;9305280690005202500023;2;Subscrição ou serviço;não;objeto de material de expediente
+86;9259420590004202500002;2;Subscrição ou serviço;sim;
+87;9305930590039202500001;2;Subscrição ou serviço;sim;
+88;1543590590022202400001;2;Subscrição ou serviço;não;aquisicao de licenca Windows Server
+89;9257350590006202500002;2;Subscrição ou serviço;sim;
+90;9286500600002202300001;2;Subscrição ou serviço;sim;
+91;3890870590005202500002;2;Subscrição ou serviço;sim;
+92;3893360600059202600001;2;Subscrição ou serviço;sim;
+93;2000090590031202500001;2;Subscrição ou serviço;sim;
+94;0700040700092202500003;2;Subscrição ou serviço;sim;
+95;2401270600005202300003;2;Subscrição ou serviço;sim;
+96;9257720590019202400002;2;Subscrição ou serviço;sim;
+97;4567820590002202400018;2;Subscrição ou serviço;sim;
+98;9282580600001202600001;2;Subscrição ou serviço;sim;
+99;9310200600005202600001;2;Subscrição ou serviço;sim;
+100;0900310590022202400003;3;Licenciamento de direitos permanentes de uso;não;suporte e atualizacao de licenciamento de direitos permanentes
+101;9284670590008202400004;3;Licenciamento de direitos permanentes de uso;não;produto por subscricao
+102;9259890590007202500017;3;Licenciamento de direitos permanentes de uso;sim;
+103;1603820590003202500002;3;Licenciamento de direitos permanentes de uso;sim;
+104;9277440500481202300008;3;Licenciamento de direitos permanentes de uso;sim;
+105;9876830590082202400006;3;Licenciamento de direitos permanentes de uso;sim;
+106;8030800590577202400001;3;Licenciamento de direitos permanentes de uso;sim;
+107;0900300500021202300006;3;Licenciamento de direitos permanentes de uso;sim;
+108;7868100500039202300031;3;Licenciamento de direitos permanentes de uso;sim;
+109;9266250690006202400002;3;Licenciamento de direitos permanentes de uso;sim;
+110;9430010501701202300003;3;Licenciamento de direitos permanentes de uso;sim;
+111;3835050590002202500003;3;Licenciamento de direitos permanentes de uso;sim;
+112;0800200590056202400011;3;Licenciamento de direitos permanentes de uso;sim;
+113;0900300590022202500002;3;Licenciamento de direitos permanentes de uso;sim;
+114;1585160592104202500001;3;Licenciamento de direitos permanentes de uso;sim;
+115;0800200590036202400003;3;Licenciamento de direitos permanentes de uso;não;certificacao tecnica (treinamento)
+116;9298360590000202400026;3;Licenciamento de direitos permanentes de uso;sim;
+117;0800200590054202500005;3;Licenciamento de direitos permanentes de uso;sim;
+118;9267690590390202400005;3;Licenciamento de direitos permanentes de uso;sim;
+119;7890000690060202400001;3;Licenciamento de direitos permanentes de uso;sim;
+120;9.278730700054202e+21;3;Licenciamento de direitos permanentes de uso;sim;
+121;1530520600191202300001;3;Licenciamento de direitos permanentes de uso;sim;
+122;9283790590074202500003;3;Licenciamento de direitos permanentes de uso;sim;
+123;0900590590015202500009;3;Licenciamento de direitos permanentes de uso;sim;
+124;1021680690086202400001;3;Licenciamento de direitos permanentes de uso;sim;
+125;9259890590007202500009;3;Licenciamento de direitos permanentes de uso;sim;
+126;9308290590008202400002;3;Licenciamento de direitos permanentes de uso;sim;
+127;9824270600051202600001;3;Licenciamento de direitos permanentes de uso;não;objeto de certificados digitais
+128;2500520591030202500012;3;Licenciamento de direitos permanentes de uso;sim;
+129;1530790590005202400003;3;Licenciamento de direitos permanentes de uso;sim;
+130;0900310590022202400002;3;Licenciamento de direitos permanentes de uso;sim;
+131;9740040590004202400008;3;Licenciamento de direitos permanentes de uso;sim;
+132;7910000600025202500001;3;Licenciamento de direitos permanentes de uso;sim;
+133;1600830500012202300004;3;Licenciamento de direitos permanentes de uso;sim;
+134;0900590590015202500029;3;Licenciamento de direitos permanentes de uso;não;apenas software assurance
+135;7838100500026202300003;3;Licenciamento de direitos permanentes de uso;sim;
+136;9565200590004202400001;3;Licenciamento de direitos permanentes de uso;sim;
+137;1200060690003202500001;3;Licenciamento de direitos permanentes de uso;sim;
+138;9255840590017202400001;3;Licenciamento de direitos permanentes de uso;sim;
+139;9267530590009202400008;3;Licenciamento de direitos permanentes de uso;sim;
+140;9251730500033202300001;3;Licenciamento de direitos permanentes de uso;sim;
+141;0923010700008202400007;3;Licenciamento de direitos permanentes de uso;não;suporte de licenciamento de direitos permanentes
+142;1530380500036202300010;3;Licenciamento de direitos permanentes de uso;sim;
+143;9259890590007202500021;3;Licenciamento de direitos permanentes de uso;sim;
+144;1531770600013202300001;3;Licenciamento de direitos permanentes de uso;sim;
+145;9269220590439202400001;3;Licenciamento de direitos permanentes de uso;não;antivirus por prazo
+146;4559780690006202500001;3;Licenciamento de direitos permanentes de uso;não;software via web
+147;3891790590011202500016;3;Licenciamento de direitos permanentes de uso;sim;
+148;9350020590039202400002;3;Licenciamento de direitos permanentes de uso;sim;
+149;0500010500057202300002;3;Licenciamento de direitos permanentes de uso;sim;
+150;9262220590005202400001;3;Licenciamento de direitos permanentes de uso;sim;
+151;1530280600013202300002;3;Licenciamento de direitos permanentes de uso;sim;
+152;9888410590022202600002;3;Licenciamento de direitos permanentes de uso;não;locacao de licenca
+153;0800120690024202300001;3;Licenciamento de direitos permanentes de uso;não;upgrade por 12 meses
+154;9285210690002202500001;3;Licenciamento de direitos permanentes de uso;sim;
+155;9263600690012202400001;3;Licenciamento de direitos permanentes de uso;sim;
+156;1530790500122202300004;3;Licenciamento de direitos permanentes de uso;sim;
+157;9841230597008202400001;3;Licenciamento de direitos permanentes de uso;sim;
+158;9250560590018202500004;3;Licenciamento de direitos permanentes de uso;não;produto vendido por subscricao
+159;0800200590036202400014;3;Licenciamento de direitos permanentes de uso;não;treinamento
+160;9251810500008202300002;3;Licenciamento de direitos permanentes de uso;sim;
+161;1566790600011202200001;3;Licenciamento de direitos permanentes de uso;sim;
+162;1530790590005202400001;3;Licenciamento de direitos permanentes de uso;sim;
+163;2400100590001202500004;3;Licenciamento de direitos permanentes de uso;sim;
+164;3330050590006202400002;3;Licenciamento de direitos permanentes de uso;sim;
+165;9260020590030202400007;3;Licenciamento de direitos permanentes de uso;sim;
+166;7830000600021202300001;3;Licenciamento de direitos permanentes de uso;sim;
+167;9259890590007202500026;3;Licenciamento de direitos permanentes de uso;sim;
+168;9260020590030202400002;3;Licenciamento de direitos permanentes de uso;não;subscricao por usuario
+169;2452090590005202400003;3;Licenciamento de direitos permanentes de uso;não;renovacao de suporte
+170;9298360590000202400025;3;Licenciamento de direitos permanentes de uso;sim;
+171;0800120690024202300002;3;Licenciamento de direitos permanentes de uso;não;upgrade por 12 meses
+172;9304520600021202600001;3;Licenciamento de direitos permanentes de uso;sim;
+173;7420500590023202500035;3;Licenciamento de direitos permanentes de uso;sim;
+174;1350330590013202400002;3;Licenciamento de direitos permanentes de uso;sim;
+175;1540470600071202300003;3;Licenciamento de direitos permanentes de uso;sim;
+176;7420500590023202500036;3;Licenciamento de direitos permanentes de uso;sim;
+177;2452090590005202400006;3;Licenciamento de direitos permanentes de uso;não;renovacao de suporte
+178;9303910600004202500001;3;Licenciamento de direitos permanentes de uso;não;servico
+179;2030030590011202500004;3;Licenciamento de direitos permanentes de uso;sim;
+180;0800200590054202500014;3;Licenciamento de direitos permanentes de uso;sim;
+181;9251730500014202300001;3;Licenciamento de direitos permanentes de uso;sim;
+182;0700160590025202500001;3;Licenciamento de direitos permanentes de uso;sim;
+183;1540490700173202500002;3;Licenciamento de direitos permanentes de uso;sim;
+184;3890470590007202500005;3;Licenciamento de direitos permanentes de uso;sim;
+185;9262220590005202400002;3;Licenciamento de direitos permanentes de uso;sim;
+186;9283790590035202400004;3;Licenciamento de direitos permanentes de uso;sim;
+187;9266540590002202400007;3;Licenciamento de direitos permanentes de uso;sim;
+188;9286580500715202300007;3;Licenciamento de direitos permanentes de uso;sim;
+189;9255500590044202600003;3;Licenciamento de direitos permanentes de uso;sim;
+190;1532540600156202300001;3;Licenciamento de direitos permanentes de uso;sim;
+191;1200710590007202600011;3;Licenciamento de direitos permanentes de uso;sim;
+192;1531760700055202300001;3;Licenciamento de direitos permanentes de uso;sim;
+193;9250560590018202500007;3;Licenciamento de direitos permanentes de uso;não;produto vendido por subscricao
+194;9256030590045202500001;3;Licenciamento de direitos permanentes de uso;sim;
+195;9261810590002202600006;3;Licenciamento de direitos permanentes de uso;sim;
+196;1530380500036202300013;3;Licenciamento de direitos permanentes de uso;sim;
+197;9255500590044202600002;3;Licenciamento de direitos permanentes de uso;sim;
+198;0900300500021202300011;3;Licenciamento de direitos permanentes de uso;sim;
+199;1200160690073202400001;3;Licenciamento de direitos permanentes de uso;não;produtos vendidos por subscricao
+200;9256030590045202400010;4;Suporte e manutenção de licença;não;compra de licenca com software assurance
+201;3893360600064202500003;4;Suporte e manutenção de licença;não;compra de licenca
+202;1530610590041202400002;4;Suporte e manutenção de licença;não;compra de licenciamento de direitos permanentes com suporte
+203;9860010500736202300002;4;Suporte e manutenção de licença;não;compra de licenciamento de direitos permanentes
+204;9261500590159202500002;4;Suporte e manutenção de licença;não;compra de licenca
+205;1350580590003202500001;4;Suporte e manutenção de licença;sim;
+206;2544450700092202500004;4;Suporte e manutenção de licença;sim;
+207;9284670590003202500001;4;Suporte e manutenção de licença;sim;
+208;2001000790011202300003;4;Suporte e manutenção de licença;sim;
+209;3892290590010202500010;4;Suporte e manutenção de licença;não;compra de licenca vitalicia
+210;2544450700092202500005;4;Suporte e manutenção de licença;sim;
+211;3892220700001202400004;4;Suporte e manutenção de licença;sim;
+212;1540540590027202400003;4;Suporte e manutenção de licença;não;compra de licenca
+213;1531640590012202500029;4;Suporte e manutenção de licença;não;compra de licenciamento de direitos permanentes
+214;1585160592005202400004;4;Suporte e manutenção de licença;sim;
+215;0900270500049202300001;4;Suporte e manutenção de licença;sim;
+216;0500010590074202400002;4;Suporte e manutenção de licença;não;compra de licenca
+217;1581240600527202500004;4;Suporte e manutenção de licença;não;compra de licenca
+218;9250400590004202500002;4;Suporte e manutenção de licença;não;renovacao de licenciamento e suporte (subscricao)
+219;9254040590007202500004;4;Suporte e manutenção de licença;não;compra de licenciamento de direitos permanentes
+220;1531760590001202400003;4;Suporte e manutenção de licença;não;reativacao de licenca por 12 meses (subscricao)
+221;9261880590011202500001;4;Suporte e manutenção de licença;sim;
+222;9254040590007202500003;4;Suporte e manutenção de licença;não;compra de licenciamento de direitos permanentes
+223;1540540590027202400002;4;Suporte e manutenção de licença;não;compra de licenca
+224;3892220700001202400001;4;Suporte e manutenção de licença;sim;
+225;9301820690007202400001;4;Suporte e manutenção de licença;não;plataforma por 12 meses
+226;1585160592104202500027;4;Suporte e manutenção de licença;sim;
+227;9875410390009202500020;4;Suporte e manutenção de licença;sim;
+228;0900060500040202300002;4;Suporte e manutenção de licença;não;renovacao de solucao por 36 meses (subscricao)
+229;4597760590032202400005;4;Suporte e manutenção de licença;não;compra de licenciamento de direitos permanentes
+230;9256030590045202400007;4;Suporte e manutenção de licença;não;compra de licenca com software assurance
+231;1585160592005202400034;4;Suporte e manutenção de licença;sim;
+232;3893200590024202400012;4;Suporte e manutenção de licença;não;compra de licenca
+233;9259800700039202500001;4;Suporte e manutenção de licença;sim;
+234;3891530590001202400004;4;Suporte e manutenção de licença;sim;
+235;4400750590005202500001;4;Suporte e manutenção de licença;não;compra de solucao de seguranca
+236;9254040590007202500001;4;Suporte e manutenção de licença;não;compra de licenciamento de direitos permanentes
+237;1581240600527202500001;4;Suporte e manutenção de licença;não;compra de licenca
+238;9271310590015202400003;4;Suporte e manutenção de licença;não;compra de licenca
+239;1531760690035202500001;4;Suporte e manutenção de licença;não;renovacao de licenca por prazo
+240;9250100590016202400004;4;Suporte e manutenção de licença;sim;
+241;9250060590032202400001;4;Suporte e manutenção de licença;sim;
+242;1581240600527202500003;4;Suporte e manutenção de licença;não;compra de licenca
+243;9256030590045202400006;4;Suporte e manutenção de licença;sim;
+244;1531760690013202500002;4;Suporte e manutenção de licença;não;licenca por 36 meses
+245;2002470590011202400001;4;Suporte e manutenção de licença;sim;
+246;9740030500021202300002;4;Suporte e manutenção de licença;sim;
+247;9250060590032202400002;4;Suporte e manutenção de licença;sim;
+248;9250400590004202500003;4;Suporte e manutenção de licença;não;renovacao de solucao com licenciamento (subscricao)
+249;9291380600011202300001;4;Suporte e manutenção de licença;não;compra de antivirus
+250;9259800700039202500006;4;Suporte e manutenção de licença;sim;
+251;1531760690035202500002;4;Suporte e manutenção de licença;não;licenca por 36 meses
+252;1540540590027202400007;4;Suporte e manutenção de licença;não;compra de licenca
+253;1531760690013202500001;4;Suporte e manutenção de licença;não;renovacao de licenca por prazo
+254;9256030590045202400008;4;Suporte e manutenção de licença;não;compra de licenca com software assurance
+255;9266250590046202500011;4;Suporte e manutenção de licença;não;compra de licenca
+256;9740030500021202300003;4;Suporte e manutenção de licença;sim;
+257;9875410600368202500018;4;Suporte e manutenção de licença;sim;
+258;3893360600064202500004;4;Suporte e manutenção de licença;não;compra de licenca
+259;1540540590027202400004;4;Suporte e manutenção de licença;não;compra de licenca
+260;9256030590045202400009;4;Suporte e manutenção de licença;não;compra de licenca com software assurance
+261;1540540590027202400005;4;Suporte e manutenção de licença;não;compra de licenca
+262;1530380590032202400004;4;Suporte e manutenção de licença;sim;
+263;9250400590004202500001;4;Suporte e manutenção de licença;não;renovacao de solucao com licenciamento (subscricao)
+264;1530380590032202400003;4;Suporte e manutenção de licença;sim;
+265;3892220700001202400002;4;Suporte e manutenção de licença;sim;
+266;1531760590001202400004;4;Suporte e manutenção de licença;não;licenca por 12 meses
+267;9256030590045202400002;4;Suporte e manutenção de licença;sim;
+268;1531760590001202400002;4;Suporte e manutenção de licença;não;renovacao de licenca por prazo
+269;1200710700018202300001;4;Suporte e manutenção de licença;sim;
+270;3892220700001202400003;4;Suporte e manutenção de licença;sim;
+271;9282850700005202400001;4;Suporte e manutenção de licença;sim;
+272;1100010500067202300002;4;Suporte e manutenção de licença;não;appliance com suporte
+273;1585160592005202400005;4;Suporte e manutenção de licença;sim;
+274;7650000700005202500002;4;Suporte e manutenção de licença;sim;
+275;1550090500095202200003;4;Suporte e manutenção de licença;sim;
+276;3892290690002202400001;4;Suporte e manutenção de licença;não;compra de licenca vitalicia
+277;1585160592104202500026;4;Suporte e manutenção de licença;sim;
+278;9253950590226202500002;4;Suporte e manutenção de licença;sim;
+279;2430010500007202300001;4;Suporte e manutenção de licença;não;renovacao de antivirus por 36 meses (subscricao)
+280;9250060590032202400003;4;Suporte e manutenção de licença;sim;
+281;1585160592005202400033;4;Suporte e manutenção de licença;sim;
+282;3893200590024202400013;4;Suporte e manutenção de licença;não;compra de licenca
+283;9250070500066202300002;4;Suporte e manutenção de licença;sim;
+284;9250070500066202300001;4;Suporte e manutenção de licença;sim;
+285;9256030590045202400004;4;Suporte e manutenção de licença;não;compra de licencas com software assurance
+286;9256030590045202400003;4;Suporte e manutenção de licença;não;compra de licencas com software assurance
+287;9266770590007202400001;4;Suporte e manutenção de licença;sim;
+288;1200160690065202400001;4;Suporte e manutenção de licença;não;compra de licenciamento de direitos permanentes
+289;9860010500736202300001;4;Suporte e manutenção de licença;não;compra de licenciamento de direitos permanentes
+290;7712600700012202500001;4;Suporte e manutenção de licença;não;servico de manutencao (classe 5)
+291;1581240600527202500002;4;Suporte e manutenção de licença;não;compra de licencas
+292;0300010590028202500004;4;Suporte e manutenção de licença;sim;
+293;1104040590031202500005;5;Desenvolvimento e serviços técnicos;sim;
+294;1600620500014202300012;5;Desenvolvimento e serviços técnicos;sim;
+295;0900300500008202300011;5;Desenvolvimento e serviços técnicos;sim;
+296;1600130600099202500001;5;Desenvolvimento e serviços técnicos;sim;
+297;9277440590180202400027;5;Desenvolvimento e serviços técnicos;sim;
+298;9430010590256202500010;5;Desenvolvimento e serviços técnicos;não;locacao de equipamento
+299;9108470590080202400004;5;Desenvolvimento e serviços técnicos;sim;
+300;2544450590078202500004;5;Desenvolvimento e serviços técnicos;sim;
+301;9884770590007202400004;5;Desenvolvimento e serviços técnicos;não;concessao de software
+302;1603950700005202200001;5;Desenvolvimento e serviços técnicos;sim;
+303;9262240590057202400004;5;Desenvolvimento e serviços técnicos;sim;
+304;9313190590007202400005;5;Desenvolvimento e serviços técnicos;sim;
+305;0811010600201202600005;5;Desenvolvimento e serviços técnicos;sim;
+306;7951800600016202500001;5;Desenvolvimento e serviços técnicos;sim;
+307;9306220600001202500001;5;Desenvolvimento e serviços técnicos;sim;
+308;9265700590001202500002;5;Desenvolvimento e serviços técnicos;não;plataforma de e-mail marketing (classe 2)
+309;0300010700027202400001;5;Desenvolvimento e serviços técnicos;não;suporte de licenca (classe 4)
+310;3801010590086202500001;5;Desenvolvimento e serviços técnicos;sim;
+311;0900270590011202400016;5;Desenvolvimento e serviços técnicos;sim;
+312;9279880500008202300003;5;Desenvolvimento e serviços técnicos;sim;
+313;9250450500146202300003;5;Desenvolvimento e serviços técnicos;não;suporte premium de appliance de seguranca (classe 4)
+314;9860010600311202500002;5;Desenvolvimento e serviços técnicos;sim;
+315;4400010690004202300011;5;Desenvolvimento e serviços técnicos;sim;
+316;6820100590006202500014;5;Desenvolvimento e serviços técnicos;sim;
+317;9277630600036202500002;5;Desenvolvimento e serviços técnicos;sim;
+318;9251250590006202400019;5;Desenvolvimento e serviços técnicos;sim;
+319;9261500590323202500006;5;Desenvolvimento e serviços técnicos;sim;
+320;9801390590083202400013;5;Desenvolvimento e serviços técnicos;sim;
+321;2890100590003202500001;5;Desenvolvimento e serviços técnicos;não;locacao de painel
+322;9430010590148202500005;5;Desenvolvimento e serviços técnicos;sim;
+323;9255380590147202500003;5;Desenvolvimento e serviços técnicos;sim;
+324;1581240600918202500005;5;Desenvolvimento e serviços técnicos;sim;
+325;9803010590070202500001;5;Desenvolvimento e serviços técnicos;sim;
+326;2001060690010202500001;5;Desenvolvimento e serviços técnicos;sim;
+327;0700010590009202600003;5;Desenvolvimento e serviços técnicos;sim;
+328;9260150590013202400001;5;Desenvolvimento e serviços técnicos;não;licenciamento e suporte (classe 4 ou 2)
+329;9259800590030202400002;5;Desenvolvimento e serviços técnicos;sim;
+330;9878890590033202400003;5;Desenvolvimento e serviços técnicos;sim;
+331;1530630600456202500002;5;Desenvolvimento e serviços técnicos;sim;
+332;9295810590003202400003;5;Desenvolvimento e serviços técnicos;sim;
+333;4614140590020202500002;5;Desenvolvimento e serviços técnicos;sim;
+334;7838000590001202400058;5;Desenvolvimento e serviços técnicos;sim;
+335;0800130509665202300011;5;Desenvolvimento e serviços técnicos;sim;
+336;9261500590323202500003;5;Desenvolvimento e serviços técnicos;sim;
+337;9430010590256202500003;5;Desenvolvimento e serviços técnicos;não;locacao de desktops
+338;9259800590029202500002;5;Desenvolvimento e serviços técnicos;não;suporte de licenca (classe 4)
+339;9263020700119202400001;5;Desenvolvimento e serviços técnicos;sim;
+340;9302160590013202500004;5;Desenvolvimento e serviços técnicos;sim;
+341;0800210590006202500008;5;Desenvolvimento e serviços técnicos;sim;
+342;9877330390002202400023;5;Desenvolvimento e serviços técnicos;sim;
+343;4130010590008202500003;5;Desenvolvimento e serviços técnicos;sim;
+344;9565180600028202400003;5;Desenvolvimento e serviços técnicos;sim;
+345;3892970600037202500006;5;Desenvolvimento e serviços técnicos;sim;
+346;9255600590025202400010;5;Desenvolvimento e serviços técnicos;sim;
+347;9803010590070202500004;5;Desenvolvimento e serviços técnicos;sim;
+348;9266770700098202500002;5;Desenvolvimento e serviços técnicos;sim;
+349;1302220600055202500001;5;Desenvolvimento e serviços técnicos;sim;
+350;9251540590085202400002;5;Desenvolvimento e serviços técnicos;não;suporte de licenca (classe 4)
+351;1581370590307202500001;5;Desenvolvimento e serviços técnicos;sim;
+352;9847670590057202500002;5;Desenvolvimento e serviços técnicos;sim;
+353;0700020700006202400001;5;Desenvolvimento e serviços técnicos;sim;
+354;9271190600001202400001;5;Desenvolvimento e serviços técnicos;sim;
+355;3030010590015202500008;5;Desenvolvimento e serviços técnicos;sim;
+356;0900130600067202400001;5;Desenvolvimento e serviços técnicos;sim;
+357;1530360590009202500004;5;Desenvolvimento e serviços técnicos;sim;
+358;2380140590946202400005;5;Desenvolvimento e serviços técnicos;sim;
+359;1132030600176202600001;5;Desenvolvimento e serviços técnicos;sim;
+360;9250030591217202500003;5;Desenvolvimento e serviços técnicos;sim;
+361;9263030600009202400001;5;Desenvolvimento e serviços técnicos;sim;
+362;9267640590146202400014;5;Desenvolvimento e serviços técnicos;sim;
+363;9266030600035202400001;5;Desenvolvimento e serviços técnicos;sim;
+364;3730830600029202400003;5;Desenvolvimento e serviços técnicos;sim;
+365;1581220600305202300001;5;Desenvolvimento e serviços técnicos;sim;
+366;9858530600306202500001;5;Desenvolvimento e serviços técnicos;não;objeto de assinatura
+367;9740040500025202300002;5;Desenvolvimento e serviços técnicos;não;compra de solucao
+368;1146190600036202500003;5;Desenvolvimento e serviços técnicos;sim;
+369;9261500590323202500040;5;Desenvolvimento e serviços técnicos;sim;
+370;3440420590019202400009;5;Desenvolvimento e serviços técnicos;sim;
+371;9862910600005202500002;5;Desenvolvimento e serviços técnicos;sim;
+372;0900310500047202300009;5;Desenvolvimento e serviços técnicos;sim;
+373;9254010590026202400005;5;Desenvolvimento e serviços técnicos;sim;
+374;3891330600048202500001;5;Desenvolvimento e serviços técnicos;sim;
+375;9266770700034202600004;5;Desenvolvimento e serviços técnicos;sim;
+376;1601680600009202600003;5;Desenvolvimento e serviços técnicos;sim;
+377;9261500590323202500070;5;Desenvolvimento e serviços técnicos;sim;
+378;9292150590001202600001;5;Desenvolvimento e serviços técnicos;sim;
+379;0800050700077202400001;5;Desenvolvimento e serviços técnicos;sim;
+380;9269220590144202500002;5;Desenvolvimento e serviços técnicos;não;licenca anual (classe 2)
+381;1581520590094202400004;5;Desenvolvimento e serviços técnicos;sim;
+382;1700100700141202400007;5;Desenvolvimento e serviços técnicos;sim;
+383;1950060590048202500009;5;Desenvolvimento e serviços técnicos;sim;
+384;2012010590008202400001;5;Desenvolvimento e serviços técnicos;sim;
+385;1581390600301202600002;5;Desenvolvimento e serviços técnicos;sim;
+386;1830380590003202400003;5;Desenvolvimento e serviços técnicos;sim;
+387;9278280590007202600004;5;Desenvolvimento e serviços técnicos;sim;
+388;9302160590013202500003;5;Desenvolvimento e serviços técnicos;não;suporte de software (classe 4)
+389;9884770590025202600053;5;Desenvolvimento e serviços técnicos;sim;
+390;2544450590285202400002;5;Desenvolvimento e serviços técnicos;não;compra de software
+391;4951300590029202400002;5;Desenvolvimento e serviços técnicos;sim;
+392;1790870700160202500001;5;Desenvolvimento e serviços técnicos;não;suporte de licenca (classe 4)
+393;9283890690302202500005;6;Equipamentos e infraestrutura física;sim;
+394;1201950590033202400001;6;Equipamentos e infraestrutura física;sim;
+395;4530790500785202300001;6;Equipamentos e infraestrutura física;sim;
+396;1146010600101202300001;6;Equipamentos e infraestrutura física;sim;
+397;0300010500053202300023;6;Equipamentos e infraestrutura física;sim;
+398;0800010590025202400002;6;Equipamentos e infraestrutura física;sim;
+399;1581540500026202300028;6;Equipamentos e infraestrutura física;sim;
+400;1930990590005202500001;6;Equipamentos e infraestrutura física;sim;
+401;1601230600034202200001;6;Equipamentos e infraestrutura física;sim;
+402;3891940500005202300003;6;Equipamentos e infraestrutura física;sim;
+403;9250990600001202600001;6;Equipamentos e infraestrutura física;sim;
+404;4543700590028202400023;6;Equipamentos e infraestrutura física;sim;
+405;0300010500053202300017;6;Equipamentos e infraestrutura física;sim;
+406;9298780590002202500008;6;Equipamentos e infraestrutura física;sim;
+407;9805510590004202500033;6;Equipamentos e infraestrutura física;sim;
+408;2001240600042202600004;6;Equipamentos e infraestrutura física;sim;
+409;9306180590001202600005;6;Equipamentos e infraestrutura física;sim;
+410;9263100590035202400004;6;Equipamentos e infraestrutura física;sim;
+411;1023180600348202500009;6;Equipamentos e infraestrutura física;não;disco de corte (ferramenta)
+412;1531770500008202300099;6;Equipamentos e infraestrutura física;sim;
+413;7511100690016202400001;6;Equipamentos e infraestrutura física;sim;
+414;9306180590017202500005;6;Equipamentos e infraestrutura física;sim;
+415;9265220690009202400001;6;Equipamentos e infraestrutura física;sim;
+416;3894380700001202400001;6;Equipamentos e infraestrutura física;sim;
+417;0900370690009202400001;6;Equipamentos e infraestrutura física;sim;
+418;9251250590006202400002;6;Equipamentos e infraestrutura física;sim;
+419;3801330600039202500005;6;Equipamentos e infraestrutura física;sim;
+420;9265220690020202500001;6;Equipamentos e infraestrutura física;sim;
+421;1581540610332202300002;6;Equipamentos e infraestrutura física;sim;
+422;9885990590294202500001;6;Equipamentos e infraestrutura física;sim;
+423;9254740590001202600001;6;Equipamentos e infraestrutura física;sim;
+424;1201950590198202500003;6;Equipamentos e infraestrutura física;sim;
+425;9255380590021202500006;6;Equipamentos e infraestrutura física;sim;
+426;0300010500053202300016;6;Equipamentos e infraestrutura física;sim;
+427;1581240500053202300006;6;Equipamentos e infraestrutura física;sim;
+428;1569560500074202300007;6;Equipamentos e infraestrutura física;sim;
+429;4505730590084202500002;6;Equipamentos e infraestrutura física;não;equipamento nao identificado
+430;9311620600003202500001;6;Equipamentos e infraestrutura física;sim;
+431;1581270500048202300023;6;Equipamentos e infraestrutura física;sim;
+432;7512130600008202500002;6;Equipamentos e infraestrutura física;sim;
+433;9261200690011202400003;6;Equipamentos e infraestrutura física;não;fita de limpeza (consumivel)
+434;9877770590039202600059;6;Equipamentos e infraestrutura física;sim;
+435;4501070590007202500004;6;Equipamentos e infraestrutura física;sim;
+436;2000350590001202500003;6;Equipamentos e infraestrutura física;sim;
+437;1600110590057202500006;6;Equipamentos e infraestrutura física;sim;
+438;9302160590014202400018;6;Equipamentos e infraestrutura física;sim;
+439;1581220500012202300011;6;Equipamentos e infraestrutura física;sim;
+440;1540520590088202400001;6;Equipamentos e infraestrutura física;sim;
+441;1021160590021202500001;6;Equipamentos e infraestrutura física;sim;
+442;9801390590101202400030;6;Equipamentos e infraestrutura física;sim;
+443;9875410590018202600020;6;Equipamentos e infraestrutura física;sim;
+444;1154060600028202600001;6;Equipamentos e infraestrutura física;sim;
+445;9254010590007202400002;6;Equipamentos e infraestrutura física;sim;
+446;9886150590002202400055;6;Equipamentos e infraestrutura física;sim;
+447;1024010590005202600003;6;Equipamentos e infraestrutura física;sim;
+448;1531670590029202500001;6;Equipamentos e infraestrutura física;sim;
+449;9877910590170202500017;6;Equipamentos e infraestrutura física;sim;
+450;9270630700039202500001;6;Equipamentos e infraestrutura física;sim;
+451;1583310600014202600020;6;Equipamentos e infraestrutura física;sim;
+452;3930090600049202500014;6;Equipamentos e infraestrutura física;sim;
+453;9280210590033202400006;6;Equipamentos e infraestrutura física;sim;
+454;0800260590026202400014;6;Equipamentos e infraestrutura física;sim;
+455;4587850600003202500002;6;Equipamentos e infraestrutura física;sim;
+456;9271310590007202400001;6;Equipamentos e infraestrutura física;sim;
+457;3926010590001202400002;6;Equipamentos e infraestrutura física;sim;
+458;9277440590180202400007;6;Equipamentos e infraestrutura física;sim;
+459;1603270590025202400037;6;Equipamentos e infraestrutura física;sim;
+460;1530280500035202300001;6;Equipamentos e infraestrutura física;sim;
+461;9284540600006202400005;6;Equipamentos e infraestrutura física;sim;
+462;4501610590457202500017;6;Equipamentos e infraestrutura física;sim;
+463;3891560590003202400005;6;Equipamentos e infraestrutura física;sim;
+464;5332010590041202500001;6;Equipamentos e infraestrutura física;sim;
+465;9875630590122202400014;6;Equipamentos e infraestrutura física;sim;
+466;9274130600001202600003;6;Equipamentos e infraestrutura física;sim;
+467;9812510690005202400002;6;Equipamentos e infraestrutura física;sim;
+468;0700120500017202300002;6;Equipamentos e infraestrutura física;sim;
+469;9854990590084202500077;6;Equipamentos e infraestrutura física;sim;
+470;4501070600002202200003;6;Equipamentos e infraestrutura física;sim;
+471;7851210695690202400002;6;Equipamentos e infraestrutura física;sim;
+472;1584820590001202400096;6;Equipamentos e infraestrutura física;sim;
+473;1581370590007202400001;6;Equipamentos e infraestrutura física;sim;
+474;8030800590611202500008;6;Equipamentos e infraestrutura física;sim;
+475;9263970590009202400001;6;Equipamentos e infraestrutura física;sim;
+476;1550230590050202400025;6;Equipamentos e infraestrutura física;não;equipamento medico
+477;3802590590030202500016;6;Equipamentos e infraestrutura física;sim;
+478;4501610590152202500001;6;Equipamentos e infraestrutura física;sim;
+479;1201950590023202500002;6;Equipamentos e infraestrutura física;sim;
+480;1545030590073202500015;6;Equipamentos e infraestrutura física;sim;
+481;9280000000002202400051;6;Equipamentos e infraestrutura física;sim;
+482;1550190600003202500003;6;Equipamentos e infraestrutura física;não;cateter
+483;9877770590039202600029;6;Equipamentos e infraestrutura física;sim;
+484;9281200590013202400002;6;Equipamentos e infraestrutura física;sim;
+485;7820000600032202600005;6;Equipamentos e infraestrutura física;sim;
+486;2006020600041202100002;6;Equipamentos e infraestrutura física;sim;
+487;1559030590064202400004;6;Equipamentos e infraestrutura física;sim;
+488;1603640600001202400001;6;Equipamentos e infraestrutura física;sim;
+489;9250140690003202400001;6;Equipamentos e infraestrutura física;sim;
+490;2002470690002202400001;6;Equipamentos e infraestrutura física;sim;
+491;3801990590003202600041;6;Equipamentos e infraestrutura física;sim;
+492;3030010590010202500002;6;Equipamentos e infraestrutura física;sim;
+493;9259420590001202600007;7;Não identificado;sim;
+494;2380140600224202300001;7;Não identificado;sim;
+495;9329290590013202500001;7;Não identificado;sim;
+496;9266770590010202400005;7;Não identificado;não;SMS por consumo (classe 2)
+497;3430300590003202500004;7;Não identificado;sim;
+498;9430010590989202500001;7;Não identificado;não;assinatura eletronica por transacao (classe 2)
+499;9265700590001202500001;7;Não identificado;não;chatbot como servico (classe 2)
+500;9263060590036202500002;7;Não identificado;sim;
+501;9264150590010202600018;7;Não identificado;sim;
+502;3802080590005202500026;7;Não identificado;sim;
+503;1581370600012202200001;7;Não identificado;sim;
+504;9800280590035202500019;7;Não identificado;sim;
+505;9846370590111202400026;7;Não identificado;sim;
+506;9263690590026202500003;7;Não identificado;sim;
+507;9254010590030202400056;7;Não identificado;sim;
+508;0700070590024202400033;7;Não identificado;não;instalacao de cabeamento (classe 5)
+509;1602250500037202300092;7;Não identificado;sim;
+510;9430010590382202400004;7;Não identificado;sim;
+511;1542150790024202300002;7;Não identificado;sim;
+512;2380140690234202400002;7;Não identificado;sim;
+513;9250200590024202500001;7;Não identificado;sim;
+514;9254670590017202500003;7;Não identificado;sim;
+515;9264540590030202500004;7;Não identificado;sim;
+516;9878090590038202400001;7;Não identificado;não;implantacao (classe 5)
+517;0800260590026202400009;7;Não identificado;não;camera (classe 6)
+518;9253020591096202500003;7;Não identificado;sim;
+519;9800280590035202500070;7;Não identificado;sim;
+520;9250070590023202500002;7;Não identificado;sim;
+521;1581420590004202500005;7;Não identificado;sim;
+522;1602250500037202300091;7;Não identificado;sim;
+523;1604860600046202500001;7;Não identificado;sim;
+524;1550090500055202300001;7;Não identificado;sim;
+525;9837810590053202500001;7;Não identificado;sim;
+526;3430260590011202500009;7;Não identificado;sim;
+527;3890860600022202400001;7;Não identificado;sim;
+528;0900280590002202600019;7;Não identificado;sim;
+529;1680050600049202500004;7;Não identificado;sim;
+530;9284590590001202600004;7;Não identificado;sim;
+531;1146010590004202600003;7;Não identificado;não;projeto de engenharia (classe 5)
+532;9885990500177202300020;7;Não identificado;sim;
+533;1602250500037202300019;7;Não identificado;sim;
+534;1559030600072202200001;7;Não identificado;não;impressora termica (classe 6)
+535;9828370600016202500003;7;Não identificado;não;instalacao (classe 5)
+536;2001000790013202300002;7;Não identificado;sim;
+537;9885990600121202300001;7;Não identificado;sim;
+538;0500010590033202500002;7;Não identificado;sim;
+539;7700000600008202400001;7;Não identificado;sim;
+540;3430260590011202500020;7;Não identificado;sim;
+541;1100010600250202600002;7;Não identificado;não;conversao de arquivos (classe 5)
+542;1102450590002202600003;7;Não identificado;sim;
+543;9885990500177202300021;7;Não identificado;sim;
+544;3892970590047202500013;7;Não identificado;sim;
+545;9276340390005202500033;7;Não identificado;não;automacao de controle de acesso (classe 5)
+546;9261500590424202500004;7;Não identificado;sim;
+547;1023180600348202500025;7;Não identificado;sim;
+548;1021340590013202500010;7;Não identificado;sim;
+549;9254740590003202600002;7;Não identificado;sim;
+550;3891750590001202600003;7;Não identificado;sim;
+551;3801630600091202500002;7;Não identificado;sim;
+552;9886750590011202600001;7;Não identificado;sim;
+553;1200060500061202300002;7;Não identificado;sim;
+554;3430050590003202400010;7;Não identificado;sim;
+555;2500570590134202500001;7;Não identificado;sim;
+556;9800280590035202500015;7;Não identificado;sim;
+557;9251530500048202300001;7;Não identificado;não;subscricao (classe 2)
+558;9844450590085202400010;7;Não identificado;sim;
+559;1703940590009202500003;7;Não identificado;não;creditos de nuvem (classe 2)
+560;1605200600076202200001;7;Não identificado;sim;
+561;9290100590005202500030;7;Não identificado;sim;
+562;9299110590029202500001;7;Não identificado;sim;
+563;9253730500425202300050;7;Não identificado;sim;
+564;2530030590000202400058;7;Não identificado;sim;
+565;4951300590019202400003;7;Não identificado;sim;
+566;9295760590021202500010;7;Não identificado;sim;
+567;1146010590006202500002;7;Não identificado;não;fita de backup (classe 6)
+568;1023180600348202500013;7;Não identificado;sim;
+569;1540400500208202300003;7;Não identificado;sim;
+570;3894380600001202200003;7;Não identificado;sim;
+571;9877450590011202600001;7;Não identificado;sim;
+572;1530790700423202400001;7;Não identificado;sim;
+573;3894540690008202400001;7;Não identificado;sim;
+574;9250060590037202400006;7;Não identificado;não;servico de takedown (classe 5)
+575;0900270590011202400030;7;Não identificado;sim;
+576;2530020590004202500005;7;Não identificado;sim;
+577;1581470600072202600002;7;Não identificado;sim;
+578;7918000590044202400024;7;Não identificado;sim;
+579;9850150590006202600001;7;Não identificado;sim;
+580;9846370590087202500001;7;Não identificado;sim;
+581;2501100590120202500001;7;Não identificado;sim;
+582;3430260590011202500013;7;Não identificado;sim;
+583;9250070590020202500025;7;Não identificado;sim;
+584;9251020500071202300031;7;Não identificado;sim;
+585;9860010600332202200001;7;Não identificado;sim;
+586;9301060590002202600001;7;Não identificado;sim;
+587;9878850700006202600001;7;Não identificado;não;geoprocessamento (classe 5)
+588;4510230590001202400003;7;Não identificado;não;licenca por 12 meses (classe 2)
+589;1585160592005202400020;7;Não identificado;não;licenciamento de direitos permanentes (classe 3)
+590;0700140600426202500001;7;Não identificado;sim;
+591;9263450590009202400001;7;Não identificado;sim;
+592;1530150600323202500008;7;Não identificado;sim;

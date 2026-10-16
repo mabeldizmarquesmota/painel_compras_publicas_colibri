@@ -1,0 +1,14 @@
+ordem;objeto;tipo;termo;justificativa
+1;Microsoft Copilot;inclusao;\bcopilot\b;Assistente de IA da Microsoft citado no objeto ou no item com IA.
+2;Google Gemini;inclusao;\bgemini\b;Assistente de IA do Google citado no objeto ou no item com IA.
+3;ChatGPT/OpenAI;inclusao;chat ?gpt|\bopen ?ai\b|\bgpt[- ]?[0-9];Produto ou modelo da OpenAI.
+4;Claude/Anthropic;inclusao;\banthropic\b|\bclaude ?(ai|pro|team|enterprise|max|sonnet|opus|haiku|code)\b;Produto ou modelo da Anthropic (Claude só seguido do nome do produto, para não pegar nomes de pessoas).
+5;Perplexity;inclusao;\bperplexity\b;Assistente de IA Perplexity.
+6;Manus;inclusao;\bmanus ?(ai|im)\b|\b(software|licencas?|plataforma|assinaturas?) (do |da )?manus\b;Agente de IA Manus (o termo sozinho pega sobrenomes e nomes de campus).
+7;Microsoft 365 + IA;inclusao;\b(microsoft|office) ?365\b|\bm365\b|\bo365\b;Suíte Microsoft 365 com componente de IA, sem Copilot citado.
+8;IA jurídica/licitações;inclusao;juridic|processua|peticao|peticoes|jurisprud|procuradori|advocaci|licitac|pregao|editais|contratacoes publicas|compras publicas;Solução de IA para atividade jurídica, processual ou de licitações.
+9;Infraestrutura/equipamentos;inclusao;\b(servidor(es)?|gpus?|placas? de video|equipamentos?|cameras?|cftv|videomonitoramento|computador(es)?|estac(ao|oes) de trabalho|storage|rack|notebooks?|drones?|totens?|catracas?|smartphones?|celular(es)?|hardware|appliance|leitor(es)?|sensor(es)?)\b;Equipamento ou infraestrutura com IA (servidores, GPUs, câmeras, computadores).
+10;Nuvem/cloud broker;inclusao;cloud broker|\bnuvem\b|\bcloud\b|\baws\b|\bazure\b|google cloud|oracle cloud|\boci\b;Serviço de nuvem ou intermediação de nuvem com serviços de IA.
+11;Plataforma/licença de IA;inclusao;\b(plataformas?|licenc\w*|assinaturas?|subscric\w*|softwares?|apis?|solucao|solucoes|ferramentas?|sistemas?)\b;Plataforma, licença, assinatura ou software de IA não enquadrado nos tipos anteriores.
+12;Outras soluções de IA;restante;;"Compra com termo de IA sem tipo anterior; recebe também os tipos com menos de 3 compras, salvo as marcas de IA (Copilot, Gemini, ChatGPT/OpenAI, Claude/Anthropic, Perplexity, Manus), que aparecem sempre com nome próprio."
+13;Outros objetos;restante;;Compra sem termo de IA no objeto nem nos itens com IA, e compras de capacitação (curso ou evento não é solução de IA).
